@@ -1,0 +1,1518 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: chrome-extension://naeaaedieihlkmdajjefioajbbdbdjgp/svgexport.html?id=1
+Subject: SVG Export
+Date: Wed, 23 Nov 2022 11:05:06 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--yNf9UoNEWj6mjdUWwBDZ1a1MWrHvJe0gxwzkcHsGU3----"
+
+
+------MultipartBoundary--yNf9UoNEWj6mjdUWwBDZ1a1MWrHvJe0gxwzkcHsGU3----
+Content-Type: text/html
+Content-ID: <frame-A1E7F9478B7842618657954489DB46D7@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://naeaaedieihlkmdajjefioajbbdbdjgp/svgexport.html?id=1
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <title>SVG Export</title>
+    <link rel=3D"stylesheet" href=3D"chrome-extension://naeaaedieihlkmdajje=
+fioajbbdbdjgp/svgexport.css">
+   =20
+   =20
+    <link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/">
+    <link href=3D"https://fonts.googleapis.com/css2?family=3DInter:wght@400=
+;700;800&amp;display=3Dswap" rel=3D"stylesheet">
+  <link rel=3D"shortcut icon" type=3D"image/png" href=3D"chrome-extension:/=
+/naeaaedieihlkmdajjefioajbbdbdjgp/icons/38x38.png"></head>
+  <body>
+    <div class=3D"flex min-w-full"><div data-v-0c17ff48=3D"" id=3D"sidebar"=
+ class=3D"flex flex-col h-screen sticky top-0"><div data-v-0c17ff48=3D"" id=
+=3D"logo" class=3D"bg-gray-900 flex justify-center items-center shadow-md">=
+<svg data-v-0c17ff48=3D"" width=3D"111" height=3D"50" viewBox=3D"0 0 140 64=
+" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"text-white"><=
+g data-v-0c17ff48=3D"" fill=3D"currentColor"><path data-v-0c17ff48=3D"" d=
+=3D"M80.7406 17.3282C80.4216 16.894 80.0047 16.549 79.4898 16.2932C78.975 1=
+6.0373 78.4782 15.9094 77.9996 15.9094C77.7531 15.9094 77.5028 15.9326 77.2=
+491 15.9792C76.9953 16.0257 76.7669 16.1149 76.5638 16.2467C76.3608 16.3785=
+ 76.1904 16.549 76.0525 16.7584C75.9148 16.9676 75.8459 17.2351 75.8459 17.=
+5608C75.8459 17.8399 75.9003 18.0725 76.0091 18.2585C76.1178 18.4445 76.277=
+4 18.6074 76.4876 18.747C76.6979 18.8865 76.9481 19.0144 77.2382 19.1307C77=
+.5282 19.247 77.8546 19.3672 78.2171 19.4913C78.7392 19.6773 79.2831 19.882=
+8 79.8488 20.1076C80.4143 20.3324 80.9292 20.6309 81.3933 21.003C81.8573 21=
+.3752 82.2418 21.8365 82.5462 22.387C82.8508 22.9374 83.0031 23.6235 83.003=
+1 24.4454C83.0031 25.3912 82.84 26.2091 82.5137 26.8992C82.1873 27.5892 81.=
+7486 28.159 81.1974 28.6087C80.6464 29.0583 80.0155 29.3917 79.3048 29.6087=
+C78.5942 29.8259 77.8618 29.9344 77.1077 29.9344C76.0055 29.9344 74.9394 29=
+.7289 73.9098 29.318C72.8801 28.9071 72.0244 28.3217 71.3427 27.5619L73.779=
+2 24.9105C74.1563 25.4067 74.653 25.8215 75.2694 26.1549C75.8858 26.4882 76=
+.4985 26.655 77.1077 26.655C77.3833 26.655 77.6515 26.6239 77.9126 26.5619C=
+78.1736 26.4998 78.4021 26.3991 78.5979 26.2596C78.7936 26.1199 78.9495 25.=
+9339 79.0655 25.7013C79.1816 25.4688 79.2396 25.1896 79.2396 24.864C79.2396=
+ 24.5538 79.1671 24.2902 79.022 24.0732C78.877 23.8561 78.6704 23.6585 78.4=
+021 23.4801C78.1337 23.3018 77.8002 23.139 77.4013 22.9916C77.0025 22.8443 =
+76.5493 22.6854 76.0417 22.5149C75.5486 22.3442 75.0663 22.1427 74.595 21.9=
+101C74.1237 21.6775 73.703 21.3791 73.3332 21.0146C72.9634 20.6502 72.6661 =
+20.2084 72.4414 19.6889C72.2165 19.1695 72.1041 18.5376 72.1041 17.7934C72.=
+1041 16.8784 72.2782 16.0954 72.6263 15.4443C72.9743 14.7929 73.4311 14.258=
+ 73.9968 13.8393C74.5623 13.4207 75.2005 13.1145 75.9111 12.9206C76.6218 12=
+.7269 77.3397 12.6299 78.0648 12.6299C78.935 12.6299 79.8233 12.8005 80.729=
+8 13.1416C81.6362 13.4827 82.4302 13.9866 83.1119 14.6535L80.7406 17.3282Z"=
+></path> <path data-v-0c17ff48=3D"" d=3D"M95.1203 29.5154H91.4002L85.5701 1=
+3.0482H89.747L93.3147 24.7241H93.4017L96.9476 13.0482H101.059L95.1203 29.51=
+54Z"></path> <path data-v-0c17ff48=3D"" d=3D"M117.919 28.5152C117.165 28.93=
+4 116.284 29.275 115.276 29.5386C114.268 29.8022 113.169 29.934 111.98 29.9=
+34C110.747 29.934 109.612 29.7247 108.576 29.306C107.539 28.8874 106.647 28=
+.2982 105.9 27.5384C105.153 26.7786 104.569 25.8676 104.149 24.8055C103.728=
+ 23.7434 103.518 22.5611 103.518 21.2586C103.518 19.9406 103.732 18.7466 10=
+4.159 17.6767C104.587 16.6068 105.178 15.6958 105.932 14.9438C106.686 14.19=
+17 107.571 13.6142 108.586 13.211C109.602 12.8079 110.696 12.6063 111.871 1=
+2.6063C113.089 12.6063 114.221 12.804 115.265 13.1994C116.309 13.5948 117.1=
+58 14.1259 117.81 14.7926L115.461 17.6534C115.098 17.2037 114.62 16.8355 11=
+4.025 16.5486C113.43 16.2618 112.756 16.1183 112.002 16.1183C111.349 16.118=
+3 110.747 16.2463 110.196 16.5021C109.645 16.758 109.166 17.1146 108.76 17.=
+572C108.354 18.0295 108.039 18.5722 107.814 19.2002C107.589 19.8282 107.477=
+ 20.5143 107.477 21.2586C107.477 22.0184 107.578 22.7161 107.781 23.3519C10=
+7.984 23.9876 108.285 24.5342 108.684 24.9915C109.083 25.449 109.576 25.805=
+7 110.164 26.0615C110.751 26.3174 111.422 26.4453 112.176 26.4453C112.611 2=
+6.4453 113.024 26.4103 113.416 26.3406C113.807 26.2708 114.17 26.1583 114.5=
+04 26.0033V23.0029H111.567V19.7932H117.919V28.5152Z"></path> <path data-v-0=
+c17ff48=3D"" d=3D"M74.6277 48.312H82.8725V49.8005H73.0613V33.3333H82.6116V3=
+4.8219H74.6277V40.497H82.0894V41.9623H74.6277V48.312Z"></path> <path data-v=
+-0c17ff48=3D"" d=3D"M88.681 44.1713L84.9175 38.9149H86.8101L89.5946 43.0549=
+L92.3792 38.9149H94.163L90.4649 44.1016L94.5111 49.8H92.5968L89.5729 45.264=
+5L86.462 49.8H84.6781L88.681 44.1713Z"></path> <path data-v-0c17ff48=3D"" d=
+=3D"M98.7317 55.382H97.2523V38.9149H98.7317V40.7988H98.7969C99.2175 40.0854=
+ 99.7794 39.5466 100.483 39.1822C101.186 38.8179 101.9 38.6357 102.626 38.6=
+357C103.423 38.6357 104.145 38.7831 104.79 39.0776C105.436 39.3722 105.987 =
+39.7754 106.444 40.2871C106.9 40.7988 107.256 41.4035 107.51 42.1012C107.76=
+3 42.799 107.89 43.551 107.89 44.3573C107.89 45.1636 107.763 45.9156 107.51=
+ 46.6135C107.256 47.3112 106.9 47.916 106.444 48.4277C105.987 48.9394 105.4=
+36 49.3425 104.79 49.6371C104.145 49.9317 103.423 50.079 102.626 50.079C101=
+.9 50.079 101.186 49.8968 100.483 49.5324C99.7794 49.168 99.2175 48.6447 98=
+.7969 47.9624H98.7317V55.382ZM106.324 44.3573C106.324 43.7526 106.237 43.18=
+27 106.063 42.6478C105.889 42.1129 105.639 41.6478 105.312 41.2524C104.986 =
+40.8569 104.584 40.5429 104.105 40.3103C103.626 40.0777 103.082 39.9615 102=
+.473 39.9615C101.908 39.9615 101.386 40.0738 100.907 40.2987C100.428 40.523=
+5 100.015 40.8336 99.667 41.229C99.319 41.6244 99.0471 42.0896 98.8512 42.6=
+246C98.6555 43.1595 98.5576 43.7372 98.5576 44.3573C98.5576 44.9776 98.6555=
+ 45.5551 98.8512 46.0902C99.0471 46.6251 99.319 47.0863 99.667 47.474C100.0=
+15 47.8616 100.428 48.1678 100.907 48.3927C101.386 48.6176 101.908 48.73 10=
+2.473 48.73C103.082 48.73 103.626 48.6176 104.105 48.3927C104.584 48.1678 1=
+04.986 47.8578 105.312 47.4624C105.639 47.067 105.889 46.6019 106.063 46.06=
+68C106.237 45.5319 106.324 44.9621 106.324 44.3573Z"></path> <path data-v-0=
+c17ff48=3D"" d=3D"M121.617 44.3573C121.617 45.1792 121.483 45.9389 121.215 =
+46.6367C120.946 47.3344 120.573 47.9392 120.094 48.4509C119.616 48.9626 119=
+.043 49.3619 118.376 49.6487C117.709 49.9355 116.976 50.079 116.179 50.079C=
+115.396 50.079 114.67 49.9355 114.003 49.6487C113.336 49.3619 112.763 48.96=
+26 112.285 48.4509C111.806 47.9392 111.433 47.3344 111.164 46.6367C110.896 =
+45.9389 110.762 45.1792 110.762 44.3573C110.762 43.5355 110.896 42.7757 111=
+.164 42.078C111.433 41.3802 111.806 40.7755 112.285 40.2638C112.763 39.7521=
+ 113.336 39.3529 114.003 39.066C114.67 38.7791 115.396 38.6357 116.179 38.6=
+357C116.976 38.6357 117.709 38.7791 118.376 39.066C119.043 39.3529 119.616 =
+39.7521 120.094 40.2638C120.573 40.7755 120.946 41.3802 121.215 42.078C121.=
+483 42.7757 121.617 43.5355 121.617 44.3573ZM120.051 44.3573C120.051 43.752=
+6 119.96 43.1827 119.779 42.6478C119.598 42.1129 119.34 41.6478 119.007 41.=
+2524C118.673 40.8569 118.267 40.5429 117.788 40.3103C117.31 40.0777 116.773=
+ 39.9615 116.179 39.9615C115.584 39.9615 115.051 40.0777 114.58 40.3103C114=
+.108 40.5429 113.706 40.8569 113.372 41.2524C113.039 41.6478 112.781 42.112=
+9 112.6 42.6478C112.419 43.1827 112.328 43.7526 112.328 44.3573C112.328 44.=
+9621 112.419 45.5319 112.6 46.0668C112.781 46.6019 113.039 47.067 113.372 4=
+7.4624C113.706 47.8578 114.108 48.1678 114.58 48.3927C115.051 48.6176 115.5=
+84 48.73 116.179 48.73C116.773 48.73 117.31 48.6176 117.788 48.3927C118.267=
+ 48.1678 118.673 47.8578 119.007 47.4624C119.34 47.067 119.598 46.6019 119.=
+779 46.0668C119.96 45.5319 120.051 44.9621 120.051 44.3573Z"></path> <path =
+data-v-0c17ff48=3D"" d=3D"M125.228 41.3105C125.228 41.0159 125.221 40.636 1=
+25.207 40.1708C125.192 39.7055 125.17 39.2869 125.141 38.9149H126.556C126.5=
+85 39.2094 126.606 39.535 126.621 39.8917C126.635 40.2483 126.643 40.5429 1=
+26.643 40.7755H126.686C126.976 40.1398 127.411 39.6242 127.991 39.2288C128.=
+571 38.8334 129.224 38.6357 129.949 38.6357C130.138 38.6357 130.308 38.6434=
+ 130.46 38.6589C130.613 38.6745 130.769 38.7055 130.928 38.752L130.732 40.2=
+406C130.645 40.2095 130.5 40.1785 130.297 40.1475C130.094 40.1165 129.891 4=
+0.1009 129.688 40.1009C129.297 40.1009 128.92 40.1785 128.557 40.3335C128.1=
+94 40.4887 127.879 40.7328 127.611 41.0662C127.342 41.3995 127.125 41.826 1=
+26.958 42.3455C126.791 42.8649 126.708 43.4891 126.708 44.2178V49.7999H125.=
+228V41.3105Z"></path> <path data-v-0c17ff48=3D"" d=3D"M140 40.2415H137.128V=
+46.591C137.128 46.9942 137.165 47.3276 137.237 47.5912C137.31 47.8548 137.4=
+15 48.0603 137.553 48.2076C137.69 48.3549 137.854 48.4557 138.042 48.5099C1=
+38.231 48.5641 138.434 48.5912 138.651 48.5912C138.854 48.5912 139.068 48.5=
+603 139.293 48.4983C139.518 48.4362 139.732 48.351 139.935 48.2424L140 49.6=
+146C139.739 49.7232 139.467 49.8046 139.184 49.8589C138.901 49.9132 138.593=
+ 49.9403 138.26 49.9403C137.984 49.9403 137.694 49.9016 137.389 49.824C137.=
+085 49.7464 136.802 49.5991 136.541 49.3821C136.28 49.165 136.066 48.8704 1=
+35.899 48.4983C135.733 48.1261 135.649 47.6377 135.649 47.033V40.2415H133.5=
+39V38.9157H135.649V35.8456H137.128V38.9157H140V40.2415Z"></path> <path data=
+-v-0c17ff48=3D"" fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M56.7567 =
+0C60.2373 0 63.063 2.82573 63.063 6.3063V56.7567C63.063 60.2373 60.2373 63.=
+063 56.7567 63.063H6.3063C2.82573 63.063 0 60.2373 0 56.7567V6.3063C0 2.825=
+73 2.82573 0 6.3063 0H56.7567ZM40.7975 14.3351C40.5716 14.3351 40.3703 14.4=
+738 40.2886 14.6835L31.7734 36.8818L28.0557 46.5753C27.9988 46.7196 27.8652=
+ 47.0407 27.5525 46.9265L27.8652 47.7102C28.1131 48.3306 28.7145 48.7364 29=
+.3813 48.7364H33.2565C33.9178 48.7364 34.5141 48.3388 34.7669 47.7265L48.22=
+96 15.0862C48.3765 14.727 48.1128 14.3351 47.7261 14.3351H40.7975ZM26.8305 =
+45.1107C22.821 35.1023 18.7563 25.1156 14.8247 15.0762C14.701 14.7528 14.94=
+25 14.3394 15.3281 14.3349C17.8215 14.3249 20.315 14.3229 22.8084 14.3349C2=
+3.0256 14.338 23.2315 14.4804 23.3116 14.6859L31.0244 35.1359L30.3155 36.98=
+41L22.2696 15.6502H16.4707L27.7124 43.7713L27.3334 44.7596C27.2765 44.9038 =
+27.143 45.2248 26.8305 45.1107Z"></path></g></svg></div> <div data-v-0c17ff=
+48=3D"" class=3D"bg-gray-800 flex flex-col flex-1"><div data-v-0c17ff48=3D"=
+" class=3D"flex flex-col flex-1 p-4"><fieldset data-v-7aa72c74=3D"" data-v-=
+0c17ff48=3D""><legend data-v-7aa72c74=3D"" class=3D"font-bold tracking-wide=
+ text-sm text-gray-300">Format</legend> <div data-v-7aa72c74=3D"" class=3D"=
+flex justify-between border-gray-300 border rounded-md p-1 relative"><div d=
+ata-v-7aa72c74=3D"" class=3D"flex justify-center flex-1"><input data-v-7aa7=
+2c74=3D"" type=3D"radio" name=3D"format" id=3D"svg1" class=3D"w-0 opacity-0=
+" value=3D"svg"> <label data-v-7aa72c74=3D"" for=3D"svg1" class=3D"font-bol=
+d text-base tracking-wide rounded-md w-full text-center z-10 relative trans=
+ition-color duration-150 ease-in-out cursor-pointer text-gray-800">SVG</lab=
+el></div><div data-v-7aa72c74=3D"" class=3D"flex justify-center flex-1"><in=
+put data-v-7aa72c74=3D"" type=3D"radio" name=3D"format" id=3D"jpg2" class=
+=3D"w-0 opacity-0" value=3D"jpg"> <label data-v-7aa72c74=3D"" for=3D"jpg2" =
+class=3D"font-bold text-base tracking-wide rounded-md w-full text-center z-=
+10 relative transition-color duration-150 ease-in-out cursor-pointer text-g=
+ray-300">JPG</label></div><div data-v-7aa72c74=3D"" class=3D"flex justify-c=
+enter flex-1"><input data-v-7aa72c74=3D"" type=3D"radio" name=3D"format" id=
+=3D"png3" class=3D"w-0 opacity-0" value=3D"png"> <label data-v-7aa72c74=3D"=
+" for=3D"png3" class=3D"font-bold text-base tracking-wide rounded-md w-full=
+ text-center z-10 relative transition-color duration-150 ease-in-out cursor=
+-pointer text-gray-300">PNG</label></div> <div data-v-7aa72c74=3D"" class=
+=3D"absolute bg-gray-300 z-0 rounded-sm transition-transform duration-150 e=
+ase-in-out" style=3D"transform: translateX(0%); width: calc(33.3333% - 0.25=
+rem); height: calc(100% - 0.5rem);"></div></div></fieldset> <!----></div> <=
+div data-v-0c17ff48=3D""><a data-v-0c17ff48=3D"" href=3D"https://svgexport.=
+io/report-a-bug?url=3Dfile%3A%2F%2F%2FC%3A%2FUsers%2Foganw%2FDownloads%2FNe=
+tflix%2520Canada%2520-%2520Watch%2520TV%2520Shows%2520Online%2C%2520Watch%2=
+520Movies%2520Online.htm" target=3D"_blank" rel=3D"noopener noreferrer" cla=
+ss=3D"text-gray-200 text-base flex justify-center items-center p-1 opacity-=
+60 hover:opacity-100 focus:opacity-100 outline-none focus:ring"><svg data-v=
+-0c17ff48=3D"" xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 512 512"=
+ class=3D"w-5 h-5 mr-1"><path data-v-0c17ff48=3D"" d=3D"M370 378c28.89 23.5=
+2 46 46.07 46 86M142 378c-28.89 23.52-46 46.06-46 86M384 208c28.89-23.52 32=
+-56.07 32-96M128 206c-28.89-23.52-32-54.06-32-94M464 288.13h-80M128 288.13H=
+48M256 192v256" fill=3D"none" stroke=3D"currentColor" stroke-linecap=3D"rou=
+nd" stroke-linejoin=3D"round" stroke-width=3D"32"></path> <path data-v-0c17=
+ff48=3D"" d=3D"M256 448h0c-70.4 0-128-57.6-128-128v-96.07c0-65.07 57.6-96 1=
+28-96h0c70.4 0 128 25.6 128 96V320c0 70.4-57.6 128-128 128z" fill=3D"none" =
+stroke=3D"currentColor" stroke-linecap=3D"round" stroke-linejoin=3D"round" =
+stroke-width=3D"32"></path> <path data-v-0c17ff48=3D"" d=3D"M179.43 143.52a=
+49.08 49.08 0 01-3.43-15.73A80 80 0 01255.79 48h.42A80 80 0 01336 127.79a41=
+.91 41.91 0 01-3.12 14.3" fill=3D"none" stroke=3D"currentColor" stroke-line=
+cap=3D"round" stroke-linejoin=3D"round" stroke-width=3D"32"></path></svg>
+        Report a bug
+      </a> <a data-v-0c17ff48=3D"" href=3D"https://www.buymeacoffee.com/del=
+ane" target=3D"_blank" rel=3D"noopener noreferrer" class=3D"text-gray-200 t=
+ext-base flex justify-center items-center p-1 mb-2 opacity-60 hover:opacity=
+-100 focus:opacity-100 outline-none focus:ring"><svg data-v-0c17ff48=3D"" x=
+mlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 512 512" class=3D"w-5 h-=
+5 mr-1"><path data-v-0c17ff48=3D"" d=3D"M368 80h64a16 16 0 0116 16v34a46 46=
+ 0 01-46 46h-34M96 80h272v192a80 80 0 01-80 80H176a80 80 0 01-80-80V80h0zM6=
+4 416h336" fill=3D"none" stroke=3D"currentColor" stroke-linecap=3D"round" s=
+troke-linejoin=3D"round" stroke-width=3D"32"></path></svg>
+        Buy me a coffee
+      </a></div> <div data-v-0c17ff48=3D"" class=3D"bg-gray-900 p-4 pt-2"><=
+p data-v-0c17ff48=3D"" class=3D"text-gray-300 text-center mb-2 text-sm">1 /=
+ 12 selected</p> <button data-v-0c17ff48=3D"" class=3D"font-sans text-base =
+tracking-wide font-bold bg-purple-600 active:bg-purple-800 text-white activ=
+e:text-gray-200 w-full py-2 px-4 rounded outline-none focus:ring">
+        Download Selected
+      </button></div></div></div> <div data-v-616179b6=3D"" class=3D"flex f=
+lex-col flex-1 bg-gray-200"><div data-v-616179b6=3D"" id=3D"header" class=
+=3D"flex items-center flex-row-reverse bg-white shadow-md px-8 sticky top-0=
+ z-10"><a data-v-616179b6=3D"" target=3D"_blank" rel=3D"noopener noreferrer=
+" class=3D"text-base tracking-wide text-purple-700 font-bold truncate max-w=
+-lg focus:outline-none focus:ring" href=3D"file:///C:/Users/oganw/Downloads=
+/Netflix%20Canada%20-%20Watch%20TV%20Shows%20Online,%20Watch%20Movies%20Onl=
+ine.htm">file:///C:/Users/oganw/Downloads/Netflix%20Canada%20-%20Watch%20TV=
+%20Shows%20Online,%20Watch%20Movies%20Online.htm</a></div> <div data-v-6161=
+79b6=3D"" class=3D"p-8 flex flex-col flex-1"><div data-v-616179b6=3D"" clas=
+s=3D"flex flex-row-reverse mb-4"><button data-v-616179b6=3D"" class=3D"text=
+-base tracking-wide text-purple-700 font-bold focus:outline-none focus:ring=
+">
+        Select All
+      </button></div> <div data-v-616179b6=3D"" class=3D"grid grid-cols-1 m=
+d:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8"><button data-v-2aba227d=
+=3D"" data-v-616179b6=3D"" class=3D"svg-card bg-white rounded-md shadow-md =
+p-4 focus:outline-none focus:ring border-purple-600"><!----> <div data-v-2a=
+ba227d=3D"" class=3D"pattern w-full mb-4 p-4 bg-left-top bg-repeat rounded =
+pointer-events-none" style=3D"background-image: url(&quot;data:image/svg+xm=
+l,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'8' height=3D'8' view=
+Box=3D'0 0 8 8'%3E%3Cg fill=3D'%23e2e8f0' fill-opacity=3D'1'%3E%3Cpath fill=
+-rule=3D'evenodd' d=3D'M0 0h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g%3E%3C/svg%3E&qu=
+ot;);"><div data-v-2aba227d=3D"" class=3D"image w-full bg-center bg-contain=
+ bg-no-repeat" style=3D"background-image: url(&quot;data:image/svg+xml;base=
+64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9=
+IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJ=
+odHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgY2xhc3M9ImJ1dHRvbi1pY29uIGljb24tY2hldn=
+Jvbi1uZXh0Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZ=
+D0iTTcuMjkyOTcgMTkuMjkyOEwxNC41ODU5IDEyTDcuMjkyOTcgNC43MDcwNkw4LjcwNzE4IDMu=
+MjkyODVMMTYuNzA3MiAxMS4yOTI4QzE2Ljg5NDcgMTEuNDgwNCAxNy4wMDAxIDExLjczNDcgMTc=
+uMDAwMSAxMkMxNy4wMDAxIDEyLjI2NTIgMTYuODk0NyAxMi41MTk1IDE2LjcwNzIgMTIuNzA3MU=
+w4LjcwNzE4IDIwLjcwNzFMNy4yOTI5NyAxOS4yOTI4WiIgZmlsbD0iIzAwNzFFQiI+PC9wYXRoP=
+jwvc3ZnPg=3D=3D&quot;);"></div></div> <div data-v-2aba227d=3D"" class=3D"fl=
+ex justify-between pointer-events-none"><input data-v-2aba227d=3D"" type=3D=
+"text" class=3D"pl-1 -translate-x-1 text-gray-600 hover:bg-purple-100 hover=
+:text-purple-800 focus:bg-purple-100 focus:text-purple-800 rounded text-sm =
+outline-none focus:ring pointer-events-auto"> <button data-v-2aba227d=3D"" =
+class=3D"text-gray-600 hover:bg-purple-100 hover:text-purple-800 rounded fo=
+cus:outline-none focus:ring pointer-events-auto"><svg data-v-2aba227d=3D"" =
+width=3D"27" height=3D"27" viewBox=3D"0 0 27 27" fill=3D"none" xmlns=3D"htt=
+p://www.w3.org/2000/svg"><path data-v-2aba227d=3D"" d=3D"M13.4619 9.39897C1=
+4.6312 9.39897 15.5878 8.44233 15.5878 7.27309C15.5878 6.10386 14.6312 5.14=
+722 13.4619 5.14722C12.2927 5.14722 11.3361 6.10386 11.3361 7.27309C11.3361=
+ 8.44233 12.2927 9.39897 13.4619 9.39897ZM13.4619 11.5248C12.2927 11.5248 1=
+1.3361 12.4815 11.3361 13.6507C11.3361 14.82 12.2927 15.7766 13.4619 15.776=
+6C14.6312 15.7766 15.5878 14.82 15.5878 13.6507C15.5878 12.4815 14.6312 11.=
+5248 13.4619 11.5248ZM13.4619 17.9025C12.2927 17.9025 11.3361 18.8591 11.33=
+61 20.0284C11.3361 21.1976 12.2927 22.1542 13.4619 22.1542C14.6312 22.1542 =
+15.5878 21.1976 15.5878 20.0284C15.5878 18.8591 14.6312 17.9025 13.4619 17.=
+9025Z" fill=3D"currentColor"></path></svg></button></div></button><button d=
+ata-v-2aba227d=3D"" data-v-616179b6=3D"" class=3D"svg-card bg-white rounded=
+-md shadow-md p-4 focus:outline-none focus:ring border-purple-600 selected"=
+><svg data-v-2aba227d=3D"" fill=3D"none" height=3D"36" viewBox=3D"0 0 42 42=
+" width=3D"36" xmlns=3D"http://www.w3.org/2000/svg" class=3D"absolute trans=
+form -translate-y-7 -translate-x-7 pointer-events-none text-purple-600"><ci=
+rcle data-v-2aba227d=3D"" cx=3D"20.5" cy=3D"20.5" fill=3D"#fff" r=3D"18.5">=
+</circle> <path data-v-2aba227d=3D"" d=3D"m21 0c-11.592 0-21 9.408-21 21s9.=
+408 21 21 21 21-9.408 21-21-9.408-21-21-21zm-4.2 31.5-10.5-10.5 2.961-2.961=
+ 7.539 7.518 15.939-15.939 2.961 2.982z" fill=3D"currentColor"></path></svg=
+> <div data-v-2aba227d=3D"" class=3D"pattern w-full mb-4 p-4 bg-left-top bg=
+-repeat rounded pointer-events-none" style=3D"background-image: url(&quot;d=
+ata:image/svg+xml,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'8' h=
+eight=3D'8' viewBox=3D'0 0 8 8'%3E%3Cg fill=3D'%23e2e8f0' fill-opacity=3D'1=
+'%3E%3Cpath fill-rule=3D'evenodd' d=3D'M0 0h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g=
+%3E%3C/svg%3E&quot;);"><div data-v-2aba227d=3D"" class=3D"image w-full bg-c=
+enter bg-contain bg-no-repeat" style=3D"background-image: url(&quot;data:im=
+age/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94=
+bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTE=
+xIDMwIiBkYXRhLXVpYT0ibmV0ZmxpeC1sb2dvIiBjbGFzcz0ic3ZnLWljb24gc3ZnLWljb24tbm=
+V0ZmxpeC1sb2dvIiBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSI+PGcgaWQ9I=
+m5ldGZsaXgtbG9nbyIgZmlsbD0iI0U1MDkxNCI+PHBhdGggZD0iTTEwNS4wNjIzMywxNC4yODA2=
+MjYxIEwxMTAuOTk5MTU2LDMwIEMxMDkuMjQ5MjI3LDI5Ljc0OTc0MjIgMTA3LjUwMDIzNCwyOS4=
+0MzY2ODU3IDEwNS43MTg0MzcsMjkuMTU1NDk3MiBMMTAyLjM3NDE2OCwyMC40Njg2NDc1IEw5OC=
+45MzcxMDc1LDI4LjQzNzUyOTMgQzk3LjI0OTk3NjYsMjguMTU2MzQwOCA5NS41OTI4MzkxLDI4L=
+jA2MTY3NCA5My45MDU3MDgxLDI3Ljg0MzI4NDMgTDk5LjkzNzIwMTIsMTQuMDkzMTY3MSBMOTQu=
+NDY4MDg1MSwtNS42ODQzNDE4OWUtMTQgTDk5LjUzMTM1MjUsLTUuNjg0MzQxODllLTE0IEwxMDI=
+uNTkzNDk1LDcuODc0MjE1MDIgTDEwNS44NzQ5NjUsLTUuNjg0MzQxODllLTE0IEwxMTAuOTk5MT=
+U2LC01LjY4NDM0MTg5ZS0xNCBMMTA1LjA2MjMzLDE0LjI4MDYyNjEgWiBNOTAuNDY4NjQ3NSwtN=
+S42ODQzNDE4OWUtMTQgTDg1Ljg3NDk2NDksLTUuNjg0MzQxODllLTE0IEw4NS44NzQ5NjQ5LDI3=
+LjI0OTk3NjYgQzg3LjM3NDYzNjgsMjcuMzQzNzA2MSA4OC45MzcxMDc1LDI3LjQwNTU2NzUgOTA=
+uNDY4NjQ3NSwyNy41OTMwMjY1IEw5MC40Njg2NDc1LC01LjY4NDM0MTg5ZS0xNCBaIE04MS45MD=
+U1MjA3LDI2LjkzNjkyIEM3Ny43MTg2MjQxLDI2LjY1NTczMTYgNzMuNTMwNzkwMSwyNi40MDY0M=
+TExIDY5LjI1MDE2NCwyNi4zMTE3NDQzIEw2OS4yNTAxNjQsLTUuNjg0MzQxODllLTE0IEw3My45=
+MzY2Mzg5LC01LjY4NDM0MTg5ZS0xNCBMNzMuOTM2NjM4OSwyMS44NzQ1ODk5IEM3Ni42MjQ4MDA=
+4LDIxLjkzNzM4ODcgNzkuMzEyMDI1NSwyMi4xNTU3Nzg0IDgxLjkwNTUyMDcsMjIuMjgwNDM4Ny=
+BMODEuOTA1NTIwNywyNi45MzY5MiBaIE02NC4yNDk2OTU0LDEwLjY1NjEwNjUgTDY0LjI0OTY5N=
+TQsMTUuMzQzNTE4NiBMNTcuODQ0MjIxNiwxNS4zNDM1MTg2IEw1Ny44NDQyMjE2LDI1Ljk5OTYy=
+NTEgTDUzLjIxODY3MDksMjUuOTk5NjI1MSBMNTMuMjE4NjcwOSwtNS42ODQzNDE4OWUtMTQgTDY=
+2LjM0MzYxMjMsLTUuNjg0MzQxODllLTE0IEw2Ni4zNDM2MTIzLDQuNjg3NDEyMTMgTDU3Ljg0ND=
+IyMTYsNC42ODc0MTIxMyBMNTcuODQ0MjIxNiwxMC42NTYxMDY1IEw2NC4yNDk2OTU0LDEwLjY1N=
+jEwNjUgWiBNNDUuMzQzNTE4Niw0LjY4NzQxMjEzIEw0NS4zNDM1MTg2LDI2LjI0OTg4MjggQzQz=
+Ljc4MTA0NzksMjYuMjQ5ODgyOCA0Mi4xODc2NDY1LDI2LjI0OTg4MjggNDAuNjU2MTA2NSwyNi4=
+zMTE3NDQzIEw0MC42NTYxMDY1LDQuNjg3NDEyMTMgTDM1LjgxMjE2NjEsNC42ODc0MTIxMyBMMz=
+UuODEyMTY2MSwtNS42ODQzNDE4OWUtMTQgTDUwLjIxODM4OTcsLTUuNjg0MzQxODllLTE0IEw1M=
+C4yMTgzODk3LDQuNjg3NDEyMTMgTDQ1LjM0MzUxODYsNC42ODc0MTIxMyBaIE0zMC43NDk4MzYs=
+MTUuNTkyODM5MSBDMjguNjg3Nzg3LDE1LjU5MjgzOTEgMjYuMjQ5ODgyOCwxNS41OTI4MzkxIDI=
+0LjQ5OTk1MzEsMTUuNjg3NTA1OSBMMjQuNDk5OTUzMSwyMi42NTYyOTM5IEMyNy4yNDk5NzY2LD=
+IyLjQ2Nzg5NzYgMzAsMjIuMjQ5NTA3OSAzMi43ODA5NTQyLDIyLjE1NTc3ODQgTDMyLjc4MDk1N=
+DIsMjYuNjU1NzMxNiBMMTkuODEyNTQxLDI3LjY4NzY5MzMgTDE5LjgxMjU0MSwtNS42ODQzNDE4=
+OWUtMTQgTDMyLjc4MDk1NDIsLTUuNjg0MzQxODllLTE0IEwzMi43ODA5NTQyLDQuNjg3NDEyMTM=
+gTDI0LjQ5OTk1MzEsNC42ODc0MTIxMyBMMjQuNDk5OTUzMSwxMC45OTkxNTY0IEMyNi4zMTI2OD=
+E2LDEwLjk5OTE1NjQgMjkuMDkzNjM1OCwxMC45MDU0MjY5IDMwLjc0OTgzNiwxMC45MDU0MjY5I=
+EwzMC43NDk4MzYsMTUuNTkyODM5MSBaIE00Ljc4MTE0MTYzLDEyLjk2ODQxMzIgTDQuNzgxMTQx=
+NjMsMjkuMzQyOTU2MiBDMy4wOTQwMTA2OSwyOS41MzEzNTI1IDEuNTkzNDAxNDQsMjkuNzQ5NzQ=
+yMiAwLDMwIEwwLC01LjY4NDM0MTg5ZS0xNCBMNC40NjkwMjI0LC01LjY4NDM0MTg5ZS0xNCBMMT=
+AuNTYyMzc3LDE3LjAzMTU4NjggTDEwLjU2MjM3NywtNS42ODQzNDE4OWUtMTQgTDE1LjI0OTc4O=
+TEsLTUuNjg0MzQxODllLTE0IEwxNS4yNDk3ODkxLDI4LjA2MTY3NCBDMTMuNTkzNTg4OSwyOC4z=
+NDM3OTk4IDExLjkwNjQ1OCwyOC40Mzc1MjkzIDEwLjEyNDY2MDIsMjguNjg2ODQ5OCBMNC43ODE=
+xNDE2MywxMi45Njg0MTMyIFoiIGlkPSJGaWxsLTE0IiBmaWxsPSIjRTUwOTE0Ij48L3BhdGg+PC=
+9nPjwvc3ZnPg=3D=3D&quot;);"></div></div> <div data-v-2aba227d=3D"" class=3D=
+"flex justify-between pointer-events-none"><input data-v-2aba227d=3D"" type=
+=3D"text" class=3D"pl-1 -translate-x-1 text-gray-600 hover:bg-purple-100 ho=
+ver:text-purple-800 focus:bg-purple-100 focus:text-purple-800 rounded text-=
+sm outline-none focus:ring pointer-events-auto"> <button data-v-2aba227d=3D=
+"" class=3D"text-gray-600 hover:bg-purple-100 hover:text-purple-800 rounded=
+ focus:outline-none focus:ring pointer-events-auto"><svg data-v-2aba227d=3D=
+"" width=3D"27" height=3D"27" viewBox=3D"0 0 27 27" fill=3D"none" xmlns=3D"=
+http://www.w3.org/2000/svg"><path data-v-2aba227d=3D"" d=3D"M13.4619 9.3989=
+7C14.6312 9.39897 15.5878 8.44233 15.5878 7.27309C15.5878 6.10386 14.6312 5=
+.14722 13.4619 5.14722C12.2927 5.14722 11.3361 6.10386 11.3361 7.27309C11.3=
+361 8.44233 12.2927 9.39897 13.4619 9.39897ZM13.4619 11.5248C12.2927 11.524=
+8 11.3361 12.4815 11.3361 13.6507C11.3361 14.82 12.2927 15.7766 13.4619 15.=
+7766C14.6312 15.7766 15.5878 14.82 15.5878 13.6507C15.5878 12.4815 14.6312 =
+11.5248 13.4619 11.5248ZM13.4619 17.9025C12.2927 17.9025 11.3361 18.8591 11=
+.3361 20.0284C11.3361 21.1976 12.2927 22.1542 13.4619 22.1542C14.6312 22.15=
+42 15.5878 21.1976 15.5878 20.0284C15.5878 18.8591 14.6312 17.9025 13.4619 =
+17.9025Z" fill=3D"currentColor"></path></svg></button></div></button><butto=
+n data-v-2aba227d=3D"" data-v-616179b6=3D"" class=3D"svg-card bg-white roun=
+ded-md shadow-md p-4 focus:outline-none focus:ring border-purple-600"><!---=
+-> <div data-v-2aba227d=3D"" class=3D"pattern w-full mb-4 p-4 bg-left-top b=
+g-repeat rounded pointer-events-none bg-gray-400" style=3D"background-image=
+: url(&quot;data:image/svg+xml,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' =
+width=3D'8' height=3D'8' viewBox=3D'0 0 8 8'%3E%3Cg fill=3D'%234a5568' fill=
+-opacity=3D'1'%3E%3Cpath fill-rule=3D'evenodd' d=3D'M0 0h4v4H0V0zm4 4h4v4H4=
+V4z'/%3E%3C/g%3E%3C/svg%3E&quot;);"><div data-v-2aba227d=3D"" class=3D"imag=
+e w-full bg-center bg-contain bg-no-repeat" style=3D"background-image: url(=
+&quot;data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5=
+vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDYgMTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm=
+9yZy8yMDAwL3N2ZyI+PGRlc2M+Y2hldnJvbjwvZGVzYz48cGF0aCBkPSJNLjYxIDEuMzEybC43O=
+C0uNjI0TDUuNjQgNmwtNC4yNSA1LjMxMi0uNzgtLjYyNEw0LjM2IDZ6IiBmaWxsPSIjRkZGRkZG=
+IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD48L3N2Zz4=3D&quot;);"></div></div> <d=
+iv data-v-2aba227d=3D"" class=3D"flex justify-between pointer-events-none">=
+<input data-v-2aba227d=3D"" type=3D"text" class=3D"pl-1 -translate-x-1 text=
+-gray-600 hover:bg-purple-100 hover:text-purple-800 focus:bg-purple-100 foc=
+us:text-purple-800 rounded text-sm outline-none focus:ring pointer-events-a=
+uto"> <button data-v-2aba227d=3D"" class=3D"text-gray-600 hover:bg-purple-1=
+00 hover:text-purple-800 rounded focus:outline-none focus:ring pointer-even=
+ts-auto"><svg data-v-2aba227d=3D"" width=3D"27" height=3D"27" viewBox=3D"0 =
+0 27 27" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg"><path data-v-2a=
+ba227d=3D"" d=3D"M13.4619 9.39897C14.6312 9.39897 15.5878 8.44233 15.5878 7=
+.27309C15.5878 6.10386 14.6312 5.14722 13.4619 5.14722C12.2927 5.14722 11.3=
+361 6.10386 11.3361 7.27309C11.3361 8.44233 12.2927 9.39897 13.4619 9.39897=
+ZM13.4619 11.5248C12.2927 11.5248 11.3361 12.4815 11.3361 13.6507C11.3361 1=
+4.82 12.2927 15.7766 13.4619 15.7766C14.6312 15.7766 15.5878 14.82 15.5878 =
+13.6507C15.5878 12.4815 14.6312 11.5248 13.4619 11.5248ZM13.4619 17.9025C12=
+.2927 17.9025 11.3361 18.8591 11.3361 20.0284C11.3361 21.1976 12.2927 22.15=
+42 13.4619 22.1542C14.6312 22.1542 15.5878 21.1976 15.5878 20.0284C15.5878 =
+18.8591 14.6312 17.9025 13.4619 17.9025Z" fill=3D"currentColor"></path></sv=
+g></button></div></button><button data-v-2aba227d=3D"" data-v-616179b6=3D""=
+ class=3D"svg-card bg-white rounded-md shadow-md p-4 focus:outline-none foc=
+us:ring border-purple-600"><!----> <div data-v-2aba227d=3D"" class=3D"patte=
+rn w-full mb-4 p-4 bg-left-top bg-repeat rounded pointer-events-none bg-gra=
+y-400" style=3D"background-image: url(&quot;data:image/svg+xml,%3Csvg xmlns=
+=3D'http://www.w3.org/2000/svg' width=3D'8' height=3D'8' viewBox=3D'0 0 8 8=
+'%3E%3Cg fill=3D'%234a5568' fill-opacity=3D'1'%3E%3Cpath fill-rule=3D'eveno=
+dd' d=3D'M0 0h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g%3E%3C/svg%3E&quot;);"><div da=
+ta-v-2aba227d=3D"" class=3D"image w-full bg-center bg-contain bg-no-repeat"=
+ style=3D"background-image: url(&quot;data:image/svg+xml;base64,PHN2ZyB4bWx=
+uczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3=
+cudzMub3JnLzIwMDAvc3ZnIiBpZD0idGhpbi14IiB2aWV3Qm94PSIwIDAgMjYgMjYiIGNsYXNzP=
+SJzdmctaWNvbiBzdmctaWNvbi10aGluLXggc3ZnLWNsb3NlZCIgZm9jdXNhYmxlPSJ0cnVlIj48=
+cGF0aCBkPSJNMTAuNSA5LjNMMS44IDAuNSAwLjUgMS44IDkuMyAxMC41IDAuNSAxOS4zIDEuOCA=
+yMC41IDEwLjUgMTEuOCAxOS4zIDIwLjUgMjAuNSAxOS4zIDExLjggMTAuNSAyMC41IDEuOCAxOS=
+4zIDAuNSAxMC41IDkuM1oiIGZpbGw9IiNGRkZGRkYiPjwvcGF0aD48L3N2Zz4=3D&quot;);"><=
+/div></div> <div data-v-2aba227d=3D"" class=3D"flex justify-between pointer=
+-events-none"><input data-v-2aba227d=3D"" type=3D"text" class=3D"pl-1 -tran=
+slate-x-1 text-gray-600 hover:bg-purple-100 hover:text-purple-800 focus:bg-=
+purple-100 focus:text-purple-800 rounded text-sm outline-none focus:ring po=
+inter-events-auto"> <button data-v-2aba227d=3D"" class=3D"text-gray-600 hov=
+er:bg-purple-100 hover:text-purple-800 rounded focus:outline-none focus:rin=
+g pointer-events-auto"><svg data-v-2aba227d=3D"" width=3D"27" height=3D"27"=
+ viewBox=3D"0 0 27 27" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg"><=
+path data-v-2aba227d=3D"" d=3D"M13.4619 9.39897C14.6312 9.39897 15.5878 8.4=
+4233 15.5878 7.27309C15.5878 6.10386 14.6312 5.14722 13.4619 5.14722C12.292=
+7 5.14722 11.3361 6.10386 11.3361 7.27309C11.3361 8.44233 12.2927 9.39897 1=
+3.4619 9.39897ZM13.4619 11.5248C12.2927 11.5248 11.3361 12.4815 11.3361 13.=
+6507C11.3361 14.82 12.2927 15.7766 13.4619 15.7766C14.6312 15.7766 15.5878 =
+14.82 15.5878 13.6507C15.5878 12.4815 14.6312 11.5248 13.4619 11.5248ZM13.4=
+619 17.9025C12.2927 17.9025 11.3361 18.8591 11.3361 20.0284C11.3361 21.1976=
+ 12.2927 22.1542 13.4619 22.1542C14.6312 22.1542 15.5878 21.1976 15.5878 20=
+.0284C15.5878 18.8591 14.6312 17.9025 13.4619 17.9025Z" fill=3D"currentColo=
+r"></path></svg></button></div></button><button data-v-2aba227d=3D"" data-v=
+-616179b6=3D"" class=3D"svg-card bg-white rounded-md shadow-md p-4 focus:ou=
+tline-none focus:ring border-purple-600"><!----> <div data-v-2aba227d=3D"" =
+class=3D"pattern w-full mb-4 p-4 bg-left-top bg-repeat rounded pointer-even=
+ts-none" style=3D"background-image: url(&quot;data:image/svg+xml,%3Csvg xml=
+ns=3D'http://www.w3.org/2000/svg' width=3D'8' height=3D'8' viewBox=3D'0 0 8=
+ 8'%3E%3Cg fill=3D'%23e2e8f0' fill-opacity=3D'1'%3E%3Cpath fill-rule=3D'eve=
+nodd' d=3D'M0 0h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g%3E%3C/svg%3E&quot;);"><div =
+data-v-2aba227d=3D"" class=3D"image w-full bg-center bg-contain bg-no-repea=
+t" style=3D"background-image: url(&quot;data:image/svg+xml;base64,PHN2ZyB4b=
+Wxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3=
+LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjQ3Ljk3MSIgaGVpZ2h=
+0PSI0Ny45NzEiIHZpZXdCb3g9IjAgMCA0Ny45NzEgNDcuOTcxIiBzdHlsZT0iZW5hYmxlLWJhY2=
+tncm91bmQ6bmV3IDAgMCA0Ny45NzEgNDcuOTcxOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+P=
+HBhdGggZD0iTTI4LjIyOCwyMy45ODZMNDcuMDkyLDUuMTIyYzEuMTcyLTEuMTcxLDEuMTcyLTMu=
+MDcxLDAtNC4yNDJjLTEuMTcyLTEuMTcyLTMuMDctMS4xNzItNC4yNDIsMEwyMy45ODYsMTkuNzQ=
+0TDUuMTIxLDAuODhjLTEuMTcyLTEuMTcyLTMuMDctMS4xNzItNC4yNDIsMGMtMS4xNzIsMS4xNz=
+EtMS4xNzIsMy4wNzEsMCw0LjI0MmwxOC44NjUsMTguODY0TDAuODc5LDQyLjg1Yy0xLjE3MiwxL=
+jE3MS0xLjE3MiwzLjA3MSwwLDQuMjQyQzEuNDY1LDQ3LjY3NywyLjIzMyw0Ny45NywzLDQ3Ljk3=
+czEuNTM1LTAuMjkzLDIuMTIxLTAuODc5bDE4Ljg2NS0xOC44NjRMNDIuODUsNDcuMDkxYzAuNTg=
+2LDAuNTg2LDEuMzU0LDAuODc5LDIuMTIxLDAuODc5czEuNTM1LTAuMjkzLDIuMTIxLTAuODc5Yz=
+EuMTcyLTEuMTcxLDEuMTcyLTMuMDcxLDAtNC4yNDJMMjguMjI4LDIzLjk4NnoiLz48L2c+PC9zd=
+mc+&quot;);"></div></div> <div data-v-2aba227d=3D"" class=3D"flex justify-b=
+etween pointer-events-none"><input data-v-2aba227d=3D"" type=3D"text" class=
+=3D"pl-1 -translate-x-1 text-gray-600 hover:bg-purple-100 hover:text-purple=
+-800 focus:bg-purple-100 focus:text-purple-800 rounded text-sm outline-none=
+ focus:ring pointer-events-auto"> <button data-v-2aba227d=3D"" class=3D"tex=
+t-gray-600 hover:bg-purple-100 hover:text-purple-800 rounded focus:outline-=
+none focus:ring pointer-events-auto"><svg data-v-2aba227d=3D"" width=3D"27"=
+ height=3D"27" viewBox=3D"0 0 27 27" fill=3D"none" xmlns=3D"http://www.w3.o=
+rg/2000/svg"><path data-v-2aba227d=3D"" d=3D"M13.4619 9.39897C14.6312 9.398=
+97 15.5878 8.44233 15.5878 7.27309C15.5878 6.10386 14.6312 5.14722 13.4619 =
+5.14722C12.2927 5.14722 11.3361 6.10386 11.3361 7.27309C11.3361 8.44233 12.=
+2927 9.39897 13.4619 9.39897ZM13.4619 11.5248C12.2927 11.5248 11.3361 12.48=
+15 11.3361 13.6507C11.3361 14.82 12.2927 15.7766 13.4619 15.7766C14.6312 15=
+.7766 15.5878 14.82 15.5878 13.6507C15.5878 12.4815 14.6312 11.5248 13.4619=
+ 11.5248ZM13.4619 17.9025C12.2927 17.9025 11.3361 18.8591 11.3361 20.0284C1=
+1.3361 21.1976 12.2927 22.1542 13.4619 22.1542C14.6312 22.1542 15.5878 21.1=
+976 15.5878 20.0284C15.5878 18.8591 14.6312 17.9025 13.4619 17.9025Z" fill=
+=3D"currentColor"></path></svg></button></div></button><button data-v-2aba2=
+27d=3D"" data-v-616179b6=3D"" class=3D"svg-card bg-white rounded-md shadow-=
+md p-4 focus:outline-none focus:ring border-purple-600"><!----> <div data-v=
+-2aba227d=3D"" class=3D"pattern w-full mb-4 p-4 bg-left-top bg-repeat round=
+ed pointer-events-none" style=3D"background-image: url(&quot;data:image/svg=
++xml,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'8' height=3D'8' v=
+iewBox=3D'0 0 8 8'%3E%3Cg fill=3D'%23e2e8f0' fill-opacity=3D'1'%3E%3Cpath f=
+ill-rule=3D'evenodd' d=3D'M0 0h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g%3E%3C/svg%3E=
+&quot;);"><div data-v-2aba227d=3D"" class=3D"image w-full bg-center bg-cont=
+ain bg-no-repeat" style=3D"background-image: url(&quot;data:image/svg+xml;b=
+ase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rP=
+SJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjE1=
+cHgiIGhlaWdodD0iMTVweCIgdmlld0JveD0iMCAwIDQ0NC41MzEgNDQ0LjUzMSIgeG1sOnNwYWN=
+lPSJwcmVzZXJ2ZSI+PHRpdGxlPkJhY2sgQnV0dG9uPC90aXRsZT48Zz48cGF0aCBmaWxsPSIjMk=
+MzNjQzIiBkPSJNMjEzLjEzLDIyMi40MDlMMzUxLjg4LDgzLjY1M2M3LjA1LTcuMDQzLDEwLjU2N=
+y0xNS42NTcsMTAuNTY3LTI1Ljg0MWMwLTEwLjE4My0zLjUxOC0xOC43OTMtMTAuNTY3LTI1Ljgz=
+NQogICAgICAgICAgICAgICAgICAgIGwtMjEuNDA5LTIxLjQxNkMzMjMuNDMyLDMuNTIxLDMxNC4=
+4MTcsMCwzMDQuNjM3LDBzLTE4Ljc5MSwzLjUyMS0yNS44NDEsMTAuNTYxTDkyLjY0OSwxOTYuND=
+I1CiAgICAgICAgICAgICAgICAgICAgYy03LjA0NCw3LjA0My0xMC41NjYsMTUuNjU2LTEwLjU2N=
+iwyNS44NDFzMy41MjEsMTguNzkxLDEwLjU2NiwyNS44MzdsMTg2LjE0NiwxODUuODY0YzcuMDUs=
+Ny4wNDMsMTUuNjYsMTAuNTY0LDI1Ljg0MSwxMC41NjQKICAgICAgICAgICAgICAgICAgICBzMTg=
+uNzk1LTMuNTIxLDI1LjgzNC0xMC41NjRsMjEuNDA5LTIxLjQxMmM3LjA1LTcuMDM5LDEwLjU2Ny=
+0xNS42MDQsMTAuNTY3LTI1LjY5N2MwLTEwLjA4NS0zLjUxOC0xOC43NDYtMTAuNTY3LTI1Ljk3O=
+AogICAgICAgICAgICAgICAgICAgIEwyMTMuMTMsMjIyLjQwOXoiPjwvcGF0aD48L2c+PC9zdmc+=
+&quot;);"></div></div> <div data-v-2aba227d=3D"" class=3D"flex justify-betw=
+een pointer-events-none"><input data-v-2aba227d=3D"" type=3D"text" class=3D=
+"pl-1 -translate-x-1 text-gray-600 hover:bg-purple-100 hover:text-purple-80=
+0 focus:bg-purple-100 focus:text-purple-800 rounded text-sm outline-none fo=
+cus:ring pointer-events-auto"> <button data-v-2aba227d=3D"" class=3D"text-g=
+ray-600 hover:bg-purple-100 hover:text-purple-800 rounded focus:outline-non=
+e focus:ring pointer-events-auto"><svg data-v-2aba227d=3D"" width=3D"27" he=
+ight=3D"27" viewBox=3D"0 0 27 27" fill=3D"none" xmlns=3D"http://www.w3.org/=
+2000/svg"><path data-v-2aba227d=3D"" d=3D"M13.4619 9.39897C14.6312 9.39897 =
+15.5878 8.44233 15.5878 7.27309C15.5878 6.10386 14.6312 5.14722 13.4619 5.1=
+4722C12.2927 5.14722 11.3361 6.10386 11.3361 7.27309C11.3361 8.44233 12.292=
+7 9.39897 13.4619 9.39897ZM13.4619 11.5248C12.2927 11.5248 11.3361 12.4815 =
+11.3361 13.6507C11.3361 14.82 12.2927 15.7766 13.4619 15.7766C14.6312 15.77=
+66 15.5878 14.82 15.5878 13.6507C15.5878 12.4815 14.6312 11.5248 13.4619 11=
+.5248ZM13.4619 17.9025C12.2927 17.9025 11.3361 18.8591 11.3361 20.0284C11.3=
+361 21.1976 12.2927 22.1542 13.4619 22.1542C14.6312 22.1542 15.5878 21.1976=
+ 15.5878 20.0284C15.5878 18.8591 14.6312 17.9025 13.4619 17.9025Z" fill=3D"=
+currentColor"></path></svg></button></div></button><button data-v-2aba227d=
+=3D"" data-v-616179b6=3D"" class=3D"svg-card bg-white rounded-md shadow-md =
+p-4 focus:outline-none focus:ring border-purple-600"><!----> <div data-v-2a=
+ba227d=3D"" class=3D"pattern w-full mb-4 p-4 bg-left-top bg-repeat rounded =
+pointer-events-none" style=3D"background-image: url(&quot;data:image/svg+xm=
+l,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'8' height=3D'8' view=
+Box=3D'0 0 8 8'%3E%3Cg fill=3D'%23e2e8f0' fill-opacity=3D'1'%3E%3Cpath fill=
+-rule=3D'evenodd' d=3D'M0 0h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g%3E%3C/svg%3E&qu=
+ot;);"><div data-v-2aba227d=3D"" class=3D"image w-full bg-center bg-contain=
+ bg-no-repeat" style=3D"background-image: url(&quot;data:image/svg+xml;base=
+64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8y=
+MDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjB=
+weCIgeT0iMHB4IiB2aWV3Qm94PSIwIC0zMCAxMTAgMTEwIj48cGF0aCBmaWxsPSIjMkUzNjQ0Ii=
+BkPSJNNTUuMTQ2LDUxLjg4N0w0MS41ODgsMzcuNzg2YzMuNDg2LTQuMTQ0LDUuMzk2LTkuMzU4L=
+DUuMzk2LTE0Ljc4NmMwLTEyLjY4Mi0xMC4zMTgtMjMtMjMtMjNzLTIzLDEwLjMxOC0yMywyMwog=
+ICAgICAgICAgICAgIHMxMC4zMTgsMjMsMjMsMjNjNC43NjEsMCw5LjI5OC0xLjQzNiwxMy4xNzc=
+tNC4xNjJsMTMuNjYxLDE0LjIwOGMwLjU3MSwwLjU5MywxLjMzOSwwLjkyLDIuMTYyLDAuOTIKIC=
+AgICAgICAgICAgICBjMC43NzksMCwxLjUxOC0wLjI5NywyLjA3OS0wLjgzN0M1Ni4yNTUsNTQuO=
+TgyLDU2LjI5Myw1My4wOCw1NS4xNDYsNTEuODg3eiBNMjMuOTg0LDZjOS4zNzQsMCwxNyw3LjYy=
+NiwxNywxN3MtNy42MjYsMTctMTcsMTcKICAgICAgICAgICAgICBzLTE3LTcuNjI2LTE3LTE3UzE=
+0LjYxLDYsMjMuOTg0LDZ6Ij48L3BhdGg+PC9zdmc+&quot;);"></div></div> <div data-v=
+-2aba227d=3D"" class=3D"flex justify-between pointer-events-none"><input da=
+ta-v-2aba227d=3D"" type=3D"text" class=3D"pl-1 -translate-x-1 text-gray-600=
+ hover:bg-purple-100 hover:text-purple-800 focus:bg-purple-100 focus:text-p=
+urple-800 rounded text-sm outline-none focus:ring pointer-events-auto"> <bu=
+tton data-v-2aba227d=3D"" class=3D"text-gray-600 hover:bg-purple-100 hover:=
+text-purple-800 rounded focus:outline-none focus:ring pointer-events-auto">=
+<svg data-v-2aba227d=3D"" width=3D"27" height=3D"27" viewBox=3D"0 0 27 27" =
+fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg"><path data-v-2aba227d=3D=
+"" d=3D"M13.4619 9.39897C14.6312 9.39897 15.5878 8.44233 15.5878 7.27309C15=
+.5878 6.10386 14.6312 5.14722 13.4619 5.14722C12.2927 5.14722 11.3361 6.103=
+86 11.3361 7.27309C11.3361 8.44233 12.2927 9.39897 13.4619 9.39897ZM13.4619=
+ 11.5248C12.2927 11.5248 11.3361 12.4815 11.3361 13.6507C11.3361 14.82 12.2=
+927 15.7766 13.4619 15.7766C14.6312 15.7766 15.5878 14.82 15.5878 13.6507C1=
+5.5878 12.4815 14.6312 11.5248 13.4619 11.5248ZM13.4619 17.9025C12.2927 17.=
+9025 11.3361 18.8591 11.3361 20.0284C11.3361 21.1976 12.2927 22.1542 13.461=
+9 22.1542C14.6312 22.1542 15.5878 21.1976 15.5878 20.0284C15.5878 18.8591 1=
+4.6312 17.9025 13.4619 17.9025Z" fill=3D"currentColor"></path></svg></butto=
+n></div></button><button data-v-2aba227d=3D"" data-v-616179b6=3D"" class=3D=
+"svg-card bg-white rounded-md shadow-md p-4 focus:outline-none focus:ring b=
+order-purple-600"><!----> <div data-v-2aba227d=3D"" class=3D"pattern w-full=
+ mb-4 p-4 bg-left-top bg-repeat rounded pointer-events-none" style=3D"backg=
+round-image: url(&quot;data:image/svg+xml,%3Csvg xmlns=3D'http://www.w3.org=
+/2000/svg' width=3D'8' height=3D'8' viewBox=3D'0 0 8 8'%3E%3Cg fill=3D'%23e=
+2e8f0' fill-opacity=3D'1'%3E%3Cpath fill-rule=3D'evenodd' d=3D'M0 0h4v4H0V0=
+zm4 4h4v4H4V4z'/%3E%3C/g%3E%3C/svg%3E&quot;);"><div data-v-2aba227d=3D"" cl=
+ass=3D"image w-full bg-center bg-contain bg-no-repeat" style=3D"background-=
+image: url(&quot;data:image/svg+xml;base64,PHN2ZyByb2xlPSJwcmVzZW50YXRpb24i=
+IGFyaWEtaGlkZGVuPSJ0cnVlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHh=
+tbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweC=
+Igd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiB2aWV3Qm94PSIwIDAgNDAyLjU3NyA0MDIuNTc3IiBzd=
+HlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA0MDIuNTc3IDQwMi41Nzc7IiB4bWw6c3Bh=
+Y2U9InByZXNlcnZlIj48dGl0bGU+RmlsdGVyIEJ1dHRvbjwvdGl0bGU+PGc+PHBhdGggZmlsbD0=
+iIzJDMzY0MyIgZD0iTTQwMC44NTgsMTEuNDI3Yy0zLjI0MS03LjQyMS04Ljg1LTExLjEzMi0xNi=
+44NTQtMTEuMTM2SDE4LjU2NGMtNy45OTMsMC0xMy42MSwzLjcxNS0xNi44NDYsMTEuMTM2CiAgI=
+CAgICAgICAgICAgICAgICAgICAgICAgICBjLTMuMjM0LDcuODAxLTEuOTAzLDE0LjQ2NywzLjk5=
+OSwxOS45ODVsMTQwLjc1NywxNDAuNzUzdjEzOC43NTVjMCw0Ljk1NSwxLjgwOSw5LjIzMiw1LjQ=
+yNCwxMi44NTRsNzMuMDg1LDczLjA4MwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYzMuND=
+I5LDMuNjE0LDcuNzEsNS40MjgsMTIuODUxLDUuNDI4YzIuMjgyLDAsNC42Ni0wLjQ3OSw3LjEzN=
+S0xLjQzYzcuNDI2LTMuMjM4LDExLjE0LTguODUxLDExLjE0LTE2Ljg0NVYxNzIuMTY2TDM5Ni44=
+NjEsMzEuNDEzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDNDAyLjc2NSwyNS44OTUsNDA=
+0LjA5MywxOS4yMzEsNDAwLjg1OCwxMS40Mjd6Ij48L3BhdGg+PC9nPjwvc3ZnPg=3D=3D&quot;=
+);"></div></div> <div data-v-2aba227d=3D"" class=3D"flex justify-between po=
+inter-events-none"><input data-v-2aba227d=3D"" type=3D"text" class=3D"pl-1 =
+-translate-x-1 text-gray-600 hover:bg-purple-100 hover:text-purple-800 focu=
+s:bg-purple-100 focus:text-purple-800 rounded text-sm outline-none focus:ri=
+ng pointer-events-auto"> <button data-v-2aba227d=3D"" class=3D"text-gray-60=
+0 hover:bg-purple-100 hover:text-purple-800 rounded focus:outline-none focu=
+s:ring pointer-events-auto"><svg data-v-2aba227d=3D"" width=3D"27" height=
+=3D"27" viewBox=3D"0 0 27 27" fill=3D"none" xmlns=3D"http://www.w3.org/2000=
+/svg"><path data-v-2aba227d=3D"" d=3D"M13.4619 9.39897C14.6312 9.39897 15.5=
+878 8.44233 15.5878 7.27309C15.5878 6.10386 14.6312 5.14722 13.4619 5.14722=
+C12.2927 5.14722 11.3361 6.10386 11.3361 7.27309C11.3361 8.44233 12.2927 9.=
+39897 13.4619 9.39897ZM13.4619 11.5248C12.2927 11.5248 11.3361 12.4815 11.3=
+361 13.6507C11.3361 14.82 12.2927 15.7766 13.4619 15.7766C14.6312 15.7766 1=
+5.5878 14.82 15.5878 13.6507C15.5878 12.4815 14.6312 11.5248 13.4619 11.524=
+8ZM13.4619 17.9025C12.2927 17.9025 11.3361 18.8591 11.3361 20.0284C11.3361 =
+21.1976 12.2927 22.1542 13.4619 22.1542C14.6312 22.1542 15.5878 21.1976 15.=
+5878 20.0284C15.5878 18.8591 14.6312 17.9025 13.4619 17.9025Z" fill=3D"curr=
+entColor"></path></svg></button></div></button><button data-v-2aba227d=3D""=
+ data-v-616179b6=3D"" class=3D"svg-card bg-white rounded-md shadow-md p-4 f=
+ocus:outline-none focus:ring border-purple-600"><!----> <div data-v-2aba227=
+d=3D"" class=3D"pattern w-full mb-4 p-4 bg-left-top bg-repeat rounded point=
+er-events-none" style=3D"background-image: url(&quot;data:image/svg+xml,%3C=
+svg xmlns=3D'http://www.w3.org/2000/svg' width=3D'8' height=3D'8' viewBox=
+=3D'0 0 8 8'%3E%3Cg fill=3D'%23e2e8f0' fill-opacity=3D'1'%3E%3Cpath fill-ru=
+le=3D'evenodd' d=3D'M0 0h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g%3E%3C/svg%3E&quot;=
+);"><div data-v-2aba227d=3D"" class=3D"image w-full bg-center bg-contain bg=
+-no-repeat" style=3D"background-image: url(&quot;data:image/svg+xml;base64,=
+PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh=
+0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjbGFzcz0ib3QtYXJyb3ciIHg9IjBweCIgeT0iMH=
+B4IiB3aWR0aD0iMTBweCIgaGVpZ2h0PSIxMHB4IiB2aWV3Qm94PSIwIDAgNDUxLjg0NiA0NTEuO=
+DQ3IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA0NTEuODQ2IDQ1MS44NDc7IiB4=
+bWw6c3BhY2U9InByZXNlcnZlIj48Zz48cGF0aCBmaWxsPSIjN0I3QjdCIiBkPSJNMzQ1LjQ0MSw=
+yNDguMjkyTDE1MS4xNTQsNDQyLjU3M2MtMTIuMzU5LDEyLjM2NS0zMi4zOTcsMTIuMzY1LTQ0Lj=
+c1LDBjLTEyLjM1NC0xMi4zNTQtMTIuMzU0LTMyLjM5MSwwLTQ0Ljc0NAogICAgICAgICAgICAgI=
+CAgICAgICAgICBMMjc4LjMxOCwyMjUuOTJMMTA2LjQwOSw1NC4wMTdjLTEyLjM1NC0xMi4zNTkt=
+MTIuMzU0LTMyLjM5NCwwLTQ0Ljc0OGMxMi4zNTQtMTIuMzU5LDMyLjM5MS0xMi4zNTksNDQuNzU=
+sMGwxOTQuMjg3LDE5NC4yODQKICAgICAgICAgICAgICAgICAgICAgICAgYzYuMTc3LDYuMTgsOS=
+4yNjIsMTQuMjcxLDkuMjYyLDIyLjM2NkMzNTQuNzA4LDIzNC4wMTgsMzUxLjYxNywyNDIuMTE1L=
+DM0NS40NDEsMjQ4LjI5MnoiPjwvcGF0aD48L2c+PC9zdmc+&quot;);"></div></div> <div =
+data-v-2aba227d=3D"" class=3D"flex justify-between pointer-events-none"><in=
+put data-v-2aba227d=3D"" type=3D"text" class=3D"pl-1 -translate-x-1 text-gr=
+ay-600 hover:bg-purple-100 hover:text-purple-800 focus:bg-purple-100 focus:=
+text-purple-800 rounded text-sm outline-none focus:ring pointer-events-auto=
+"> <button data-v-2aba227d=3D"" class=3D"text-gray-600 hover:bg-purple-100 =
+hover:text-purple-800 rounded focus:outline-none focus:ring pointer-events-=
+auto"><svg data-v-2aba227d=3D"" width=3D"27" height=3D"27" viewBox=3D"0 0 2=
+7 27" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg"><path data-v-2aba2=
+27d=3D"" d=3D"M13.4619 9.39897C14.6312 9.39897 15.5878 8.44233 15.5878 7.27=
+309C15.5878 6.10386 14.6312 5.14722 13.4619 5.14722C12.2927 5.14722 11.3361=
+ 6.10386 11.3361 7.27309C11.3361 8.44233 12.2927 9.39897 13.4619 9.39897ZM1=
+3.4619 11.5248C12.2927 11.5248 11.3361 12.4815 11.3361 13.6507C11.3361 14.8=
+2 12.2927 15.7766 13.4619 15.7766C14.6312 15.7766 15.5878 14.82 15.5878 13.=
+6507C15.5878 12.4815 14.6312 11.5248 13.4619 11.5248ZM13.4619 17.9025C12.29=
+27 17.9025 11.3361 18.8591 11.3361 20.0284C11.3361 21.1976 12.2927 22.1542 =
+13.4619 22.1542C14.6312 22.1542 15.5878 21.1976 15.5878 20.0284C15.5878 18.=
+8591 14.6312 17.9025 13.4619 17.9025Z" fill=3D"currentColor"></path></svg><=
+/button></div></button><button data-v-2aba227d=3D"" data-v-616179b6=3D"" cl=
+ass=3D"svg-card bg-white rounded-md shadow-md p-4 focus:outline-none focus:=
+ring border-purple-600"><!----> <div data-v-2aba227d=3D"" class=3D"pattern =
+w-full mb-4 p-4 bg-left-top bg-repeat rounded pointer-events-none" style=3D=
+"background-image: url(&quot;data:image/svg+xml,%3Csvg xmlns=3D'http://www.=
+w3.org/2000/svg' width=3D'8' height=3D'8' viewBox=3D'0 0 8 8'%3E%3Cg fill=
+=3D'%23e2e8f0' fill-opacity=3D'1'%3E%3Cpath fill-rule=3D'evenodd' d=3D'M0 0=
+h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g%3E%3C/svg%3E&quot;);"><div data-v-2aba227d=
+=3D"" class=3D"image w-full bg-center bg-contain bg-no-repeat" style=3D"bac=
+kground-image: url(&quot;data:image/svg+xml;base64,PHN2ZyByb2xlPSJwcmVzZW50=
+YXRpb24iIGNsYXNzPSJvdC1hcnJvdyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3Z=
+nIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PS=
+IwcHgiIHdpZHRoPSIxMHB4IiBoZWlnaHQ9IjEwcHgiIHZpZXdCb3g9IjAgMCA0NTEuODQ2IDQ1M=
+S44NDciIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDQ1MS44NDYgNDUxLjg0Nzsi=
+IHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwYXRoIGZpbGw9IiM3QjdCN0IiIGQ9Ik0zNDUuNDQ=
+xLDI0OC4yOTJMMTUxLjE1NCw0NDIuNTczYy0xMi4zNTksMTIuMzY1LTMyLjM5NywxMi4zNjUtND=
+QuNzUsMGMtMTIuMzU0LTEyLjM1NC0xMi4zNTQtMzIuMzkxLDAtNDQuNzQ0CiAgICAgICAgICAgI=
+CAgICAgICAgICAgICAgICAgICAgICAgIEwyNzguMzE4LDIyNS45MkwxMDYuNDA5LDU0LjAxN2Mt=
+MTIuMzU0LTEyLjM1OS0xMi4zNTQtMzIuMzk0LDAtNDQuNzQ4YzEyLjM1NC0xMi4zNTksMzIuMzk=
+xLTEyLjM1OSw0NC43NSwwbDE5NC4yODcsMTk0LjI4NAogICAgICAgICAgICAgICAgICAgICAgIC=
+AgICAgICAgICAgICBjNi4xNzcsNi4xOCw5LjI2MiwxNC4yNzEsOS4yNjIsMjIuMzY2QzM1NC43M=
+DgsMjM0LjAxOCwzNTEuNjE3LDI0Mi4xMTUsMzQ1LjQ0MSwyNDguMjkyeiI+PC9wYXRoPjwvZz48=
+L3N2Zz4=3D&quot;);"></div></div> <div data-v-2aba227d=3D"" class=3D"flex ju=
+stify-between pointer-events-none"><input data-v-2aba227d=3D"" type=3D"text=
+" class=3D"pl-1 -translate-x-1 text-gray-600 hover:bg-purple-100 hover:text=
+-purple-800 focus:bg-purple-100 focus:text-purple-800 rounded text-sm outli=
+ne-none focus:ring pointer-events-auto"> <button data-v-2aba227d=3D"" class=
+=3D"text-gray-600 hover:bg-purple-100 hover:text-purple-800 rounded focus:o=
+utline-none focus:ring pointer-events-auto"><svg data-v-2aba227d=3D"" width=
+=3D"27" height=3D"27" viewBox=3D"0 0 27 27" fill=3D"none" xmlns=3D"http://w=
+ww.w3.org/2000/svg"><path data-v-2aba227d=3D"" d=3D"M13.4619 9.39897C14.631=
+2 9.39897 15.5878 8.44233 15.5878 7.27309C15.5878 6.10386 14.6312 5.14722 1=
+3.4619 5.14722C12.2927 5.14722 11.3361 6.10386 11.3361 7.27309C11.3361 8.44=
+233 12.2927 9.39897 13.4619 9.39897ZM13.4619 11.5248C12.2927 11.5248 11.336=
+1 12.4815 11.3361 13.6507C11.3361 14.82 12.2927 15.7766 13.4619 15.7766C14.=
+6312 15.7766 15.5878 14.82 15.5878 13.6507C15.5878 12.4815 14.6312 11.5248 =
+13.4619 11.5248ZM13.4619 17.9025C12.2927 17.9025 11.3361 18.8591 11.3361 20=
+.0284C11.3361 21.1976 12.2927 22.1542 13.4619 22.1542C14.6312 22.1542 15.58=
+78 21.1976 15.5878 20.0284C15.5878 18.8591 14.6312 17.9025 13.4619 17.9025Z=
+" fill=3D"currentColor"></path></svg></button></div></button><button data-v=
+-2aba227d=3D"" data-v-616179b6=3D"" class=3D"svg-card bg-white rounded-md s=
+hadow-md p-4 focus:outline-none focus:ring border-purple-600"><!----> <div =
+data-v-2aba227d=3D"" class=3D"pattern w-full mb-4 p-4 bg-left-top bg-repeat=
+ rounded pointer-events-none" style=3D"background-image: url(&quot;data:ima=
+ge/svg+xml,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'8' height=
+=3D'8' viewBox=3D'0 0 8 8'%3E%3Cg fill=3D'%23e2e8f0' fill-opacity=3D'1'%3E%=
+3Cpath fill-rule=3D'evenodd' d=3D'M0 0h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g%3E%3=
+C/svg%3E&quot;);"><div data-v-2aba227d=3D"" class=3D"image w-full bg-center=
+ bg-contain bg-no-repeat" style=3D"background-image: url(&quot;data:image/s=
+vg+xml;base64,PHN2ZyByb2xlPSJwcmVzZW50YXRpb24iIGNsYXNzPSJvdC1hcnJvdyIgeG1sb=
+nM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53=
+My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxMHB4IiBoZWlnaHQ9IjE=
+wcHgiIHZpZXdCb3g9IjAgMCA0NTEuODQ2IDQ1MS44NDciIHN0eWxlPSJlbmFibGUtYmFja2dyb3=
+VuZDpuZXcgMCAwIDQ1MS44NDYgNDUxLjg0NzsiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnPjxwY=
+XRoIGZpbGw9IiM3QjdCN0IiIGQ9Ik0zNDUuNDQxLDI0OC4yOTJMMTUxLjE1NCw0NDIuNTczYy0x=
+Mi4zNTksMTIuMzY1LTMyLjM5NywxMi4zNjUtNDQuNzUsMGMtMTIuMzU0LTEyLjM1NC0xMi4zNTQ=
+tMzIuMzkxLDAtNDQuNzQ0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTDI3OC4zMT=
+gsMjI1LjkyTDEwNi40MDksNTQuMDE3Yy0xMi4zNTQtMTIuMzU5LTEyLjM1NC0zMi4zOTQsMC00N=
+C43NDhjMTIuMzU0LTEyLjM1OSwzMi4zOTEtMTIuMzU5LDQ0Ljc1LDBsMTk0LjI4NywxOTQuMjg0=
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYzYuMTc3LDYuMTgsOS4yNjIsMTQuMjc=
+xLDkuMjYyLDIyLjM2NkMzNTQuNzA4LDIzNC4wMTgsMzUxLjYxNywyNDIuMTE1LDM0NS40NDEsMj=
+Q4LjI5MnoiPjwvcGF0aD48L2c+PC9zdmc+&quot;);"></div></div> <div data-v-2aba22=
+7d=3D"" class=3D"flex justify-between pointer-events-none"><input data-v-2a=
+ba227d=3D"" type=3D"text" class=3D"pl-1 -translate-x-1 text-gray-600 hover:=
+bg-purple-100 hover:text-purple-800 focus:bg-purple-100 focus:text-purple-8=
+00 rounded text-sm outline-none focus:ring pointer-events-auto"> <button da=
+ta-v-2aba227d=3D"" class=3D"text-gray-600 hover:bg-purple-100 hover:text-pu=
+rple-800 rounded focus:outline-none focus:ring pointer-events-auto"><svg da=
+ta-v-2aba227d=3D"" width=3D"27" height=3D"27" viewBox=3D"0 0 27 27" fill=3D=
+"none" xmlns=3D"http://www.w3.org/2000/svg"><path data-v-2aba227d=3D"" d=3D=
+"M13.4619 9.39897C14.6312 9.39897 15.5878 8.44233 15.5878 7.27309C15.5878 6=
+.10386 14.6312 5.14722 13.4619 5.14722C12.2927 5.14722 11.3361 6.10386 11.3=
+361 7.27309C11.3361 8.44233 12.2927 9.39897 13.4619 9.39897ZM13.4619 11.524=
+8C12.2927 11.5248 11.3361 12.4815 11.3361 13.6507C11.3361 14.82 12.2927 15.=
+7766 13.4619 15.7766C14.6312 15.7766 15.5878 14.82 15.5878 13.6507C15.5878 =
+12.4815 14.6312 11.5248 13.4619 11.5248ZM13.4619 17.9025C12.2927 17.9025 11=
+.3361 18.8591 11.3361 20.0284C11.3361 21.1976 12.2927 22.1542 13.4619 22.15=
+42C14.6312 22.1542 15.5878 21.1976 15.5878 20.0284C15.5878 18.8591 14.6312 =
+17.9025 13.4619 17.9025Z" fill=3D"currentColor"></path></svg></button></div=
+></button><button data-v-2aba227d=3D"" data-v-616179b6=3D"" class=3D"svg-ca=
+rd bg-white rounded-md shadow-md p-4 focus:outline-none focus:ring border-p=
+urple-600"><!----> <div data-v-2aba227d=3D"" class=3D"pattern w-full mb-4 p=
+-4 bg-left-top bg-repeat rounded pointer-events-none" style=3D"background-i=
+mage: url(&quot;data:image/svg+xml,%3Csvg xmlns=3D'http://www.w3.org/2000/s=
+vg' width=3D'8' height=3D'8' viewBox=3D'0 0 8 8'%3E%3Cg fill=3D'%23e2e8f0' =
+fill-opacity=3D'1'%3E%3Cpath fill-rule=3D'evenodd' d=3D'M0 0h4v4H0V0zm4 4h4=
+v4H4V4z'/%3E%3C/g%3E%3C/svg%3E&quot;);"><div data-v-2aba227d=3D"" class=3D"=
+image w-full bg-center bg-contain bg-no-repeat" style=3D"background-image: =
+url(&quot;data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy5=
+3My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4PS=
+IwcHgiIHk9IjBweCIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiB2aWV3Qm94PSIwIDAgNTExLjYyN=
+iA1MTEuNjI3IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MTEuNjI2IDUxMS42=
+Mjc7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBmaWxsPSIjMUE3M0U4Ij48ZyBmaWxsPSIjMUE=
+3M0U4Ij48cGF0aCBkPSJNMzkyLjg1NywyOTIuMzU0aC0xOC4yNzRjLTIuNjY5LDAtNC44NTksMC=
+44NTUtNi41NjMsMi41NzNjLTEuNzE4LDEuNzA4LTIuNTczLDMuODk3LTIuNTczLDYuNTYzdjkxL=
+jM2MQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGMwLDEyLjU2My00LjQ3=
+LDIzLjMxNS0xMy40MTUsMzIuMjYyYy04Ljk0NSw4Ljk0NS0xOS43MDEsMTMuNDE0LTMyLjI2NCw=
+xMy40MTRIODIuMjI0Yy0xMi41NjIsMC0yMy4zMTctNC40NjktMzIuMjY0LTEzLjQxNAogICAgIC=
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGMtOC45NDUtOC45NDYtMTMuNDE3LTE5L=
+jY5OC0xMy40MTctMzIuMjYyVjE1NS4zMWMwLTEyLjU2Miw0LjQ3MS0yMy4zMTMsMTMuNDE3LTMy=
+LjI1OWM4Ljk0Ny04Ljk0NywxOS43MDItMTMuNDE4LDMyLjI2NC0xMy40MTgKICAgICAgICAgICA=
+gICAgICAgICAgICAgICAgICAgICAgICAgICBoMjAwLjk5NGMyLjY2OSwwLDQuODU5LTAuODU5LD=
+YuNTctMi41N2MxLjcxMS0xLjcxMywyLjU2Ni0zLjksMi41NjYtNi41NjdWODIuMjIxYzAtMi42N=
+jItMC44NTUtNC44NTMtMi41NjYtNi41NjMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg=
+ICAgICAgICBjLTEuNzExLTEuNzEzLTMuOTAxLTIuNTY4LTYuNTctMi41NjhIODIuMjI0Yy0yMi4=
+2NDgsMC00Mi4wMTYsOC4wNDItNTguMTAyLDI0LjEyNUM4LjA0MiwxMTMuMjk3LDAsMTMyLjY2NS=
+wwLDE1NS4zMTN2MjM3LjU0MgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgI=
+GMwLDIyLjY0Nyw4LjA0Miw0Mi4wMTgsMjQuMTIzLDU4LjA5NWMxNi4wODYsMTYuMDg0LDM1LjQ1=
+NCwyNC4xMyw1OC4xMDIsMjQuMTNoMjM3LjU0M2MyMi42NDcsMCw0Mi4wMTctOC4wNDYsNTguMTA=
+xLTI0LjEzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYzE2LjA4NS0xNi=
+4wNzcsMjQuMTI3LTM1LjQ0NywyNC4xMjctNTguMDk1di05MS4zNThjMC0yLjY2OS0wLjg1Ni00L=
+jg1OS0yLjU3NC02LjU3CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQzM5=
+Ny43MDksMjkzLjIwOSwzOTUuNTE5LDI5Mi4zNTQsMzkyLjg1NywyOTIuMzU0eiIgZmlsbD0iIzF=
+BNzNFOCI+PC9wYXRoPjxwYXRoIGQ9Ik01MDYuMTk5LDQxLjk3MWMtMy42MTctMy42MTctNy45MD=
+UtNS40MjQtMTIuODUtNS40MjRIMzQ3LjE3MWMtNC45NDgsMC05LjIzMywxLjgwNy0xMi44NDcsN=
+S40MjQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjLTMuNjE3LDMuNjE1=
+LTUuNDI4LDcuODk4LTUuNDI4LDEyLjg0N3MxLjgxMSw5LjIzMyw1LjQyOCwxMi44NWw1MC4yNDc=
+sNTAuMjQ4TDE5OC40MjQsMzA0LjA2NwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC=
+AgICAgIGMtMS45MDYsMS45MDMtMi44NTYsNC4wOTMtMi44NTYsNi41NjNjMCwyLjQ3OSwwLjk1M=
+yw0LjY2OCwyLjg1Niw2LjU3MWwzMi41NDgsMzIuNTQ0YzEuOTAzLDEuOTAzLDQuMDkzLDIuODUy=
+LDYuNTY3LDIuODUyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgczQuNjY=
+1LTAuOTQ4LDYuNTY3LTIuODUybDE4Ni4xNDgtMTg2LjE0OGw1MC4yNTEsNTAuMjQ4YzMuNjE0LD=
+MuNjE3LDcuODk4LDUuNDI2LDEyLjg0Nyw1LjQyNnM5LjIzMy0xLjgwOSwxMi44NTEtNS40MjYKI=
+CAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjMy42MTctMy42MTYsNS40MjQt=
+Ny44OTgsNS40MjQtMTIuODQ3VjU0LjgxOEM1MTEuNjI2LDQ5Ljg2Niw1MDkuODEzLDQ1LjU4Niw=
+1MDYuMTk5LDQxLjk3MXoiIGZpbGw9IiMxQTczRTgiPjwvcGF0aD48L2c+PC9nPjwvc3ZnPg=3D=
+=3D&quot;);"></div></div> <div data-v-2aba227d=3D"" class=3D"flex justify-b=
+etween pointer-events-none"><input data-v-2aba227d=3D"" type=3D"text" class=
+=3D"pl-1 -translate-x-1 text-gray-600 hover:bg-purple-100 hover:text-purple=
+-800 focus:bg-purple-100 focus:text-purple-800 rounded text-sm outline-none=
+ focus:ring pointer-events-auto"> <button data-v-2aba227d=3D"" class=3D"tex=
+t-gray-600 hover:bg-purple-100 hover:text-purple-800 rounded focus:outline-=
+none focus:ring pointer-events-auto"><svg data-v-2aba227d=3D"" width=3D"27"=
+ height=3D"27" viewBox=3D"0 0 27 27" fill=3D"none" xmlns=3D"http://www.w3.o=
+rg/2000/svg"><path data-v-2aba227d=3D"" d=3D"M13.4619 9.39897C14.6312 9.398=
+97 15.5878 8.44233 15.5878 7.27309C15.5878 6.10386 14.6312 5.14722 13.4619 =
+5.14722C12.2927 5.14722 11.3361 6.10386 11.3361 7.27309C11.3361 8.44233 12.=
+2927 9.39897 13.4619 9.39897ZM13.4619 11.5248C12.2927 11.5248 11.3361 12.48=
+15 11.3361 13.6507C11.3361 14.82 12.2927 15.7766 13.4619 15.7766C14.6312 15=
+.7766 15.5878 14.82 15.5878 13.6507C15.5878 12.4815 14.6312 11.5248 13.4619=
+ 11.5248ZM13.4619 17.9025C12.2927 17.9025 11.3361 18.8591 11.3361 20.0284C1=
+1.3361 21.1976 12.2927 22.1542 13.4619 22.1542C14.6312 22.1542 15.5878 21.1=
+976 15.5878 20.0284C15.5878 18.8591 14.6312 17.9025 13.4619 17.9025Z" fill=
+=3D"currentColor"></path></svg></button></div></button></div></div></div> <=
+div data-v-19213326=3D"" class=3D"fixed w-full h-full top-0 left-0 z-30 fle=
+x items-center justify-center pointer-events-none"><!----> <!----></div> <!=
+----></div>
+   =20
+ =20
+
+</body></html>
+------MultipartBoundary--yNf9UoNEWj6mjdUWwBDZ1a1MWrHvJe0gxwzkcHsGU3----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://naeaaedieihlkmdajjefioajbbdbdjgp/svgexport.css
+
+@charset "utf-8";
+
+*, ::before, ::after { box-sizing: border-box; }
+
+html { tab-size: 4; }
+
+html { line-height: 1.15; text-size-adjust: 100%; }
+
+body { margin: 0px; }
+
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica=
+, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; }
+
+hr { height: 0px; color: inherit; }
+
+abbr[title] { text-decoration: underline dotted; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, samp, pre { font-family: ui-monospace, SFMono-Regular, Consolas,=
+ "Liberation Mono", Menlo, monospace; font-size: 1em; }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+table { text-indent: 0px; border-color: inherit; }
+
+button, input, optgroup, select, textarea { font-family: inherit; font-size=
+: 100%; line-height: 1.15; margin: 0px; }
+
+button, select { text-transform: none; }
+
+button, [type=3D"button"] { appearance: button; }
+
+legend { padding: 0px; }
+
+progress { vertical-align: baseline; }
+
+summary { display: list-item; }
+
+blockquote, dl, dd, h1, h2, h3, h4, h5, h6, hr, figure, p, pre { margin: 0p=
+x; }
+
+button { background-color: transparent; background-image: none; }
+
+button:focus { outline: -webkit-focus-ring-color auto 5px; }
+
+fieldset { margin: 0px; padding: 0px; }
+
+ol, ul { list-style: none; margin: 0px; padding: 0px; }
+
+html { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMa=
+cSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans=
+-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Col=
+or Emoji"; line-height: 1.5; }
+
+body { font-family: inherit; line-height: inherit; }
+
+*, ::before, ::after { box-sizing: border-box; border-width: 0px; border-st=
+yle: solid; border-color: rgb(229, 231, 235); }
+
+hr { border-top-width: 1px; }
+
+img { border-style: solid; }
+
+textarea { resize: vertical; }
+
+input::placeholder, textarea::placeholder { opacity: 1; color: rgb(156, 163=
+, 175); }
+
+button { cursor: pointer; }
+
+table { border-collapse: collapse; }
+
+h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+
+a { color: inherit; text-decoration: inherit; }
+
+button, input, optgroup, select, textarea { padding: 0px; line-height: inhe=
+rit; color: inherit; }
+
+pre, code, kbd, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Mo=
+naco, Consolas, "Liberation Mono", "Courier New", monospace; }
+
+img, svg, video, canvas, audio, iframe, embed, object { display: block; ver=
+tical-align: middle; }
+
+img, video { max-width: 100%; height: auto; }
+
+body { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMa=
+cSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans=
+-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Col=
+or Emoji"; line-height: 1.625; -webkit-font-smoothing: antialiased; }
+
+.space-x-2 > :not([hidden]) ~ :not([hidden]) { --tw-space-x-reverse: 0; mar=
+gin-right: calc(0.5rem * var(--tw-space-x-reverse)); margin-left: calc(0.5r=
+em * calc(1 - var(--tw-space-x-reverse))); }
+
+.bg-black { --tw-bg-opacity: 1; background-color: rgba(0, 0, 0, var(--tw-bg=
+-opacity)); }
+
+.bg-white { --tw-bg-opacity: 1; background-color: rgba(255, 255, 255, var(-=
+-tw-bg-opacity)); }
+
+.bg-gray-200 { --tw-bg-opacity: 1; background-color: rgba(229, 231, 235, va=
+r(--tw-bg-opacity)); }
+
+.bg-gray-300 { --tw-bg-opacity: 1; background-color: rgba(209, 213, 219, va=
+r(--tw-bg-opacity)); }
+
+.bg-gray-400 { --tw-bg-opacity: 1; background-color: rgba(156, 163, 175, va=
+r(--tw-bg-opacity)); }
+
+.bg-gray-700 { --tw-bg-opacity: 1; background-color: rgba(55, 65, 81, var(-=
+-tw-bg-opacity)); }
+
+.bg-gray-800 { --tw-bg-opacity: 1; background-color: rgba(31, 41, 55, var(-=
+-tw-bg-opacity)); }
+
+.bg-gray-900 { --tw-bg-opacity: 1; background-color: rgba(17, 24, 39, var(-=
+-tw-bg-opacity)); }
+
+.bg-purple-600 { --tw-bg-opacity: 1; background-color: rgba(124, 58, 237, v=
+ar(--tw-bg-opacity)); }
+
+.bg-purple-800 { --tw-bg-opacity: 1; background-color: rgba(91, 33, 182, va=
+r(--tw-bg-opacity)); }
+
+.hover\:bg-purple-100:hover { --tw-bg-opacity: 1; background-color: rgba(23=
+7, 233, 254, var(--tw-bg-opacity)); }
+
+.focus\:bg-purple-100:focus { --tw-bg-opacity: 1; background-color: rgba(23=
+7, 233, 254, var(--tw-bg-opacity)); }
+
+.active\:bg-purple-800:active { --tw-bg-opacity: 1; background-color: rgba(=
+91, 33, 182, var(--tw-bg-opacity)); }
+
+.bg-center { background-position: center center; }
+
+.bg-left-top { background-position: left top; }
+
+.bg-repeat { background-repeat: repeat; }
+
+.bg-no-repeat { background-repeat: no-repeat; }
+
+.bg-contain { background-size: contain; }
+
+.border-gray-300 { --tw-border-opacity: 1; border-color: rgba(209, 213, 219=
+, var(--tw-border-opacity)); }
+
+.border-purple-600 { --tw-border-opacity: 1; border-color: rgba(124, 58, 23=
+7, var(--tw-border-opacity)); }
+
+.rounded-sm { border-radius: 0.125rem; }
+
+.rounded { border-radius: 0.25rem; }
+
+.rounded-md { border-radius: 0.375rem; }
+
+.rounded-lg { border-radius: 0.5rem; }
+
+.rounded-full { border-radius: 9999px; }
+
+.border { border-width: 1px; }
+
+.cursor-pointer { cursor: pointer; }
+
+.cursor-not-allowed { cursor: not-allowed; }
+
+.block { display: block; }
+
+.flex { display: flex; }
+
+.table { display: table; }
+
+.grid { display: grid; }
+
+.flex-row-reverse { flex-direction: row-reverse; }
+
+.flex-col { flex-direction: column; }
+
+.items-end { align-items: flex-end; }
+
+.items-center { align-items: center; }
+
+.justify-center { justify-content: center; }
+
+.justify-between { justify-content: space-between; }
+
+.flex-1 { flex: 1 1 0%; }
+
+.font-sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, B=
+linkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans"=
+, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "No=
+to Color Emoji"; }
+
+.font-bold { font-weight: 700; }
+
+.font-extrabold { font-weight: 800; }
+
+.h-5 { height: 1.25rem; }
+
+.h-10 { height: 2.5rem; }
+
+.h-full { height: 100%; }
+
+.h-screen { height: 100vh; }
+
+.text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+
+.text-base { font-size: 1rem; line-height: 1.5rem; }
+
+.text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+
+.text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+
+.text-2xl { font-size: 1.5rem; line-height: 2rem; }
+
+.mt-1 { margin-top: 0.25rem; }
+
+.mr-1 { margin-right: 0.25rem; }
+
+.mb-2 { margin-bottom: 0.5rem; }
+
+.ml-2 { margin-left: 0.5rem; }
+
+.mt-4 { margin-top: 1rem; }
+
+.mb-4 { margin-bottom: 1rem; }
+
+.max-w-lg { max-width: 32rem; }
+
+.min-w-full { min-width: 100%; }
+
+.opacity-0 { opacity: 0; }
+
+.opacity-50 { opacity: 0.5; }
+
+.opacity-60 { opacity: 0.6; }
+
+.hover\:opacity-100:hover { opacity: 1; }
+
+.focus\:opacity-100:focus { opacity: 1; }
+
+.outline-none { outline: transparent solid 2px; outline-offset: 2px; }
+
+.focus\:outline-none:focus { outline: transparent solid 2px; outline-offset=
+: 2px; }
+
+.overflow-hidden { overflow: hidden; }
+
+.p-1 { padding: 0.25rem; }
+
+.p-4 { padding: 1rem; }
+
+.p-8 { padding: 2rem; }
+
+.py-2 { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+
+.px-2 { padding-left: 0.5rem; padding-right: 0.5rem; }
+
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+
+.px-8 { padding-left: 2rem; padding-right: 2rem; }
+
+.pl-1 { padding-left: 0.25rem; }
+
+.pt-2 { padding-top: 0.5rem; }
+
+.pointer-events-none { pointer-events: none; }
+
+.pointer-events-auto { pointer-events: auto; }
+
+.fixed { position: fixed; }
+
+.absolute { position: absolute; }
+
+.relative { position: relative; }
+
+.sticky { position: sticky; }
+
+.top-0 { top: 0px; }
+
+.bottom-0 { bottom: 0px; }
+
+.left-0 { left: 0px; }
+
+* { --tw-shadow: 0 0 #0000; }
+
+.shadow { --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, =
+0, 0, 0.06); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-=
+ring-shadow, 0 0 #0000), var(--tw-shadow); }
+
+.shadow-md { --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px=
+ rgba(0, 0, 0, 0.06); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), =
+var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow); }
+
+.shadow-xl { --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px =
+-5px rgba(0, 0, 0, 0.04); box-shadow: var(--tw-ring-offset-shadow, 0 0 #000=
+0), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow); }
+
+.hover\:shadow-lg:hover { --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),=
+ 0 4px 6px -2px rgba(0, 0, 0, 0.05); box-shadow: var(--tw-ring-offset-shado=
+w, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow); }
+
+.focus\:shadow-lg:focus { --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),=
+ 0 4px 6px -2px rgba(0, 0, 0, 0.05); box-shadow: var(--tw-ring-offset-shado=
+w, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow); }
+
+.active\:shadow:active { --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px=
+ 2px 0 rgba(0, 0, 0, 0.06); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0=
+000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow); }
+
+* { --tw-ring-inset: var(--tw-empty, ); --tw-ring-offset-width: 0px; --tw-r=
+ing-offset-color: #fff; --tw-ring-color: rgba(59, 130, 246, 0.5); --tw-ring=
+-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; }
+
+.focus\:ring:focus { --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 va=
+r(--tw-ring-offset-width) var(--tw-ring-offset-color); --tw-ring-shadow: va=
+r(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-r=
+ing-color); box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow)=
+, var(--tw-shadow, 0 0 #0000); }
+
+.text-center { text-align: center; }
+
+.text-white { --tw-text-opacity: 1; color: rgba(255, 255, 255, var(--tw-tex=
+t-opacity)); }
+
+.text-gray-200 { --tw-text-opacity: 1; color: rgba(229, 231, 235, var(--tw-=
+text-opacity)); }
+
+.text-gray-300 { --tw-text-opacity: 1; color: rgba(209, 213, 219, var(--tw-=
+text-opacity)); }
+
+.text-gray-600 { --tw-text-opacity: 1; color: rgba(75, 85, 99, var(--tw-tex=
+t-opacity)); }
+
+.text-gray-700 { --tw-text-opacity: 1; color: rgba(55, 65, 81, var(--tw-tex=
+t-opacity)); }
+
+.text-gray-800 { --tw-text-opacity: 1; color: rgba(31, 41, 55, var(--tw-tex=
+t-opacity)); }
+
+.text-gray-900 { --tw-text-opacity: 1; color: rgba(17, 24, 39, var(--tw-tex=
+t-opacity)); }
+
+.text-purple-600 { --tw-text-opacity: 1; color: rgba(124, 58, 237, var(--tw=
+-text-opacity)); }
+
+.text-purple-700 { --tw-text-opacity: 1; color: rgba(109, 40, 217, var(--tw=
+-text-opacity)); }
+
+.hover\:text-purple-800:hover { --tw-text-opacity: 1; color: rgba(91, 33, 1=
+82, var(--tw-text-opacity)); }
+
+.focus\:text-purple-800:focus { --tw-text-opacity: 1; color: rgba(91, 33, 1=
+82, var(--tw-text-opacity)); }
+
+.active\:text-gray-200:active { --tw-text-opacity: 1; color: rgba(229, 231,=
+ 235, var(--tw-text-opacity)); }
+
+.truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap;=
+ }
+
+.tracking-wide { letter-spacing: 0.025em; }
+
+.w-0 { width: 0px; }
+
+.w-5 { width: 1.25rem; }
+
+.w-10 { width: 2.5rem; }
+
+.w-full { width: 100%; }
+
+.z-0 { z-index: 0; }
+
+.z-10 { z-index: 10; }
+
+.z-20 { z-index: 20; }
+
+.z-30 { z-index: 30; }
+
+.z-40 { z-index: 40; }
+
+.gap-4 { gap: 1rem; }
+
+.gap-8 { gap: 2rem; }
+
+.grid-cols-1 { grid-template-columns: repeat(1, minmax(0px, 1fr)); }
+
+.grid-cols-3 { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+
+.col-span-2 { grid-column: span 2 / span 2; }
+
+.transform { --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw=
+-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; transform: tr=
+anslateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(va=
+r(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(=
+--tw-scale-x)) scaleY(var(--tw-scale-y)); }
+
+.-translate-x-1 { --tw-translate-x: -0.25rem; }
+
+.-translate-x-7 { --tw-translate-x: -1.75rem; }
+
+.-translate-y-7 { --tw-translate-y: -1.75rem; }
+
+.transition { transition-property: background-color, border-color, color, f=
+ill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webk=
+it-backdrop-filter; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1=
+); transition-duration: 150ms; }
+
+.transition-transform { transition-property: transform; transition-timing-f=
+unction: cubic-bezier(0.4, 0, 0.2, 1); transition-duration: 150ms; }
+
+.ease-in-out { transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+
+.duration-150 { transition-duration: 150ms; }
+
+.duration-200 { transition-duration: 200ms; }
+
+@-webkit-keyframes spin {=20
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes spin {=20
+  100% { transform: rotate(360deg); }
+}
+
+@-webkit-keyframes ping {=20
+  75%, 100% { transform: scale(2); opacity: 0; }
+}
+
+@keyframes ping {=20
+  75%, 100% { transform: scale(2); opacity: 0; }
+}
+
+@-webkit-keyframes pulse {=20
+  50% { opacity: 0.5; }
+}
+
+@keyframes pulse {=20
+  50% { opacity: 0.5; }
+}
+
+@-webkit-keyframes bounce {=20
+  0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-=
+bezier(0.8, 0, 1, 1); }
+  50% { transform: none; animation-timing-function: cubic-bezier(0, 0, 0.2,=
+ 1); }
+}
+
+@keyframes bounce {=20
+  0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-=
+bezier(0.8, 0, 1, 1); }
+  50% { transform: none; animation-timing-function: cubic-bezier(0, 0, 0.2,=
+ 1); }
+}
+
+.filter { --tw-blur: var(--tw-empty, ); --tw-brightness: var(--tw-empty, );=
+ --tw-contrast: var(--tw-empty, ); --tw-grayscale: var(--tw-empty, ); --tw-=
+hue-rotate: var(--tw-empty, ); --tw-invert: var(--tw-empty, ); --tw-saturat=
+e: var(--tw-empty, ); --tw-sepia: var(--tw-empty, ); --tw-drop-shadow: var(=
+--tw-empty, ); filter: var(--tw-blur) var(--tw-brightness) var(--tw-contras=
+t) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-satur=
+ate) var(--tw-sepia) var(--tw-drop-shadow); }
+
+@media (min-width: 640px) {
+}
+
+@media (min-width: 768px) {
+  .md\:text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+  .md\:text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+  .md\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+}
+
+@media (min-width: 1024px) {
+  .lg\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+}
+
+@media (min-width: 1280px) {
+  .xl\:grid-cols-4 { grid-template-columns: repeat(4, minmax(0px, 1fr)); }
+}
+
+@media (min-width: 1536px) {
+}
+
+input:focus + label[data-v-7aa72c74] { outline: 0px; box-shadow: rgba(66, 1=
+53, 225, 0.5) 0px 0px 0px 3px; }
+
+#sidebar[data-v-0c17ff48] { width: 280px; }
+
+#logo[data-v-0c17ff48] { height: 80px; }
+
+#quality[data-v-0c17ff48] { padding: 5px 8px; }
+
+.fade-down-enter-active[data-v-0c17ff48] { transition: all 0.15s cubic-bezi=
+er(0, 0, 0.2, 1) 0s; }
+
+.fade-down-leave-active[data-v-0c17ff48] { transition: all 0.15s cubic-bezi=
+er(0.4, 0, 1, 1) 0s; }
+
+.fade-down-enter[data-v-0c17ff48], .fade-down-leave-to[data-v-0c17ff48] { t=
+ransform: translateY(-10px); opacity: 0; }
+
+.svg-card[data-v-2aba227d] { border-width: 0px; padding: 1rem; position: re=
+lative; }
+
+.svg-card.selected[data-v-2aba227d] { border-width: 4px; padding: calc(1rem=
+ - 4px); }
+
+.pattern[data-v-2aba227d] { background-size: 20px 20px; }
+
+.image[data-v-2aba227d] { padding-bottom: 100%; background-repeat: no-repea=
+t; }
+
+.svg-card input[data-v-2aba227d] { max-width: calc(100% - 27px); }
+
+.spinner[data-v-4ec0d0ee] { animation: 1.4s linear 0s infinite normal none =
+running circle-rotator-data-v-4ec0d0ee; }
+
+.spinner [data-v-4ec0d0ee] { line-height: 0; box-sizing: border-box; }
+
+@keyframes circle-rotator-data-v-4ec0d0ee {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(270deg); }
+}
+
+.path[data-v-4ec0d0ee] { stroke-dasharray: 187; stroke-dashoffset: 0; trans=
+form-origin: center center; animation: 1.4s ease-in-out 0s infinite normal =
+none running circle-dash-data-v-4ec0d0ee; stroke: rgb(128, 90, 213); }
+
+@keyframes circle-dash-data-v-4ec0d0ee {=20
+  0% { stroke-dashoffset: 187; }
+  50% { stroke-dashoffset: 46.75; transform: rotate(135deg); }
+  100% { stroke-dashoffset: 187; transform: rotate(450deg); }
+}
+
+#header[data-v-616179b6] { height: 80px; }
+
+.backdrop[data-v-19213326] { opacity: 0.6; transition-property: opacity; tr=
+ansition-duration: 150ms; transition-timing-function: cubic-bezier(0, 0, 0.=
+2, 1); }
+
+.fade-enter[data-v-19213326], .fade-leave-to[data-v-19213326] { opacity: 0;=
+ transition-timing-function: cubic-bezier(0.4, 0, 1, 1); transition-duratio=
+n: 200ms; }
+
+.modal[data-v-19213326] { opacity: 1; transform: translateY(0px) scale(1); =
+transition-property: opacity, transform; transition-duration: 200ms; transi=
+tion-timing-function: cubic-bezier(0, 0, 0.2, 1); }
+
+.slide-up-enter[data-v-19213326], .slide-up-leave-to[data-v-19213326] { opa=
+city: 0; transform: translateY(20px) scale(0.95); transition-timing-functio=
+n: cubic-bezier(0.4, 0, 1, 1); transition-duration: 150ms; }
+
+.spacer[data-v-b4ef1dec] { width: 1px; }
+
+.sketch [data-v-b4ef1dec], .framer [data-v-b4ef1dec], .figma [data-v-b4ef1d=
+ec], .plain-code [data-v-b4ef1dec], .download-svg [data-v-b4ef1dec] { trans=
+ition-property: fill; transition-timing-function: cubic-bezier(0.4, 0, 0.2,=
+ 1); transition-duration: 100ms; }
+
+.background[data-v-b4ef1dec] { fill: rgb(226, 232, 240); }
+
+.sketch .s1[data-v-b4ef1dec] { fill: rgb(100, 114, 135); }
+
+.sketch .s2[data-v-b4ef1dec] { fill: rgb(113, 128, 150); }
+
+.sketch .s3[data-v-b4ef1dec] { fill: rgb(135, 147, 166); }
+
+.sketch .s4[data-v-b4ef1dec] { fill: rgb(203, 213, 224); }
+
+.sketch:hover .background[data-v-b4ef1dec] { fill: rgb(19, 10, 51); }
+
+.sketch:hover .s1[data-v-b4ef1dec] { fill: rgb(234, 108, 0); }
+
+.sketch:hover .s2[data-v-b4ef1dec] { fill: rgb(253, 173, 0); }
+
+.sketch:hover .s3[data-v-b4ef1dec] { fill: rgb(253, 210, 49); }
+
+.sketch:hover .s4[data-v-b4ef1dec] { fill: rgb(254, 238, 183); }
+
+.framer .logo[data-v-b4ef1dec] { fill: rgb(113, 128, 150); }
+
+.framer:hover .background[data-v-b4ef1dec] { fill: rgb(255, 255, 255); }
+
+.framer:hover .logo[data-v-b4ef1dec] { fill: rgb(0, 85, 255); }
+
+.figma .f1[data-v-b4ef1dec], .figma .f3[data-v-b4ef1dec], .figma .f5[data-v=
+-b4ef1dec] { fill: rgb(113, 128, 150); }
+
+.figma .f2[data-v-b4ef1dec], .figma .f4[data-v-b4ef1dec] { fill: rgb(160, 1=
+74, 192); }
+
+.figma:hover .background[data-v-b4ef1dec] { fill: rgb(44, 47, 56); }
+
+.figma:hover .f1[data-v-b4ef1dec] { fill: rgb(10, 207, 131); }
+
+.figma:hover .f2[data-v-b4ef1dec] { fill: rgb(162, 89, 255); }
+
+.figma:hover .f3[data-v-b4ef1dec] { fill: rgb(242, 78, 30); }
+
+.figma:hover .f4[data-v-b4ef1dec] { fill: rgb(255, 114, 98); }
+
+.figma:hover .f5[data-v-b4ef1dec] { fill: rgb(26, 188, 254); }
+
+.plain-code .icon[data-v-b4ef1dec] { fill: rgb(113, 128, 150); }
+
+.plain-code:hover .background[data-v-b4ef1dec] { fill: rgb(26, 32, 44); }
+
+.plain-code:hover .icon[data-v-b4ef1dec] { fill: rgb(255, 255, 255); }
+
+.download-svg .icon[data-v-b4ef1dec] { fill: rgb(113, 128, 150); }
+
+.download-svg:hover .background[data-v-b4ef1dec] { fill: rgb(128, 90, 213);=
+ }
+
+.download-svg:hover .icon[data-v-b4ef1dec] { fill: rgb(255, 255, 255); }
+
+.notification[data-v-535dbf92] { left: 50%; transform: translate(-50%, -20p=
+x) scale(1); transition-property: transform; transition-duration: 150ms; tr=
+ansition-timing-function: cubic-bezier(0, 0, 0.2, 1); }
+
+.slide-up-enter[data-v-535dbf92], .slide-up-leave-to[data-v-535dbf92] { tra=
+nsform: translate(-50%, 40px) scale(0.95); transition-timing-function: cubi=
+c-bezier(0.4, 0, 1, 1); }
+------MultipartBoundary--yNf9UoNEWj6mjdUWwBDZ1a1MWrHvJe0gxwzkcHsGU3----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+=
+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2=
+C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20A=
+C, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+=
+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2=
+C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20A=
+C, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+1EA0-1EF9, U+=
+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2=
+C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3i=
+LTeHuS_fvQtMwCp50KnMa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20A=
+C, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--yNf9UoNEWj6mjdUWwBDZ1a1MWrHvJe0gxwzkcHsGU3------
