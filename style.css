@@ -2,16 +2,23 @@
   box-sizing: border-box;
   padding: 0px;
   margin: 0px;
-  /* background: black; */
+  color: white;
+  
+ 
+  
   /* background: rgba(0,0,0,.4); */
 }
 
+main{
+  background-color: black;
+}
 
 .main-div-subheader {
     background-image:url(/backgroundimage.jpg) ;
     position: relative;
     height:40rem;
-    
+    z-index: 1;
+    opacity: 0.8;
     
 }
 
@@ -91,17 +98,15 @@
     height: 50px;
   
 }
-.login {
-    /* margin-left: 100px; */
-}
+
 .card-container{
-    display: flex;
-    justify-content: space-evenly;
-    justify-content: center;
-    justify-content: space-evenly;
-    align-items: center;
-    color: 
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
+    
+    
+   
 
 
 .card-image-header{
@@ -148,28 +153,56 @@
 
 
 .card-container-1{
+  border: 1px solid red;
     display: flex;
     position: relative;
+    align-items: center;
+    justify-content: space-evenly
+    
 
+
+}
+
+.card-container-stream{
+  
+  border: 1px solid red;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  right: 100px;
+  top: 100px;
+  width: 500px
+  
+  
+ 
+  
 }
 
 
 .our-story-card-video-1{
     position: absolute;
-    left: 165px;
+    left: 410px;
     top:46px ;
     width: 25rem;
 }
 .card-image-1 {
     z-index: 2;
+  
 }
+
+#card-Stream-h2{
+font-size: 3.1624rem;
+}
+#card-Stream-h3{
+  font-size: 1.625rem;
+  
+  }
+
 
 .card-Stream-h2{
-
-}
-.card-container-1{
-    align-items: center;
-    justify-content: center;
+  margin-bottom: 10px;
+ 
+  
 }
 .card-container-kids {
   display: flex;
@@ -257,6 +290,9 @@
   background-color: red;
   color: white;
   height: 100px;
+}
+.get-started {
+  background-color: red;
 }
 .footer-header {
   display: grid;
