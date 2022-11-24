@@ -71,7 +71,7 @@ main{
   );
 }
 .logo {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     align-items: center;
     
@@ -137,14 +137,14 @@ main{
     
 .card-container-header{
     max-width: 450px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #card-container-h2{
     font-size: 3.165rem;
 }
 #card-container-h3{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 450px;
     font-size:1.625rem ;
     padding:40px 0px
@@ -153,7 +153,7 @@ main{
 
 
 .card-container-1{
-  border: 1px solid red;
+  /* border: 1px solid red; */
     display: flex;
     position: relative;
     align-items: center;
@@ -165,7 +165,7 @@ main{
 
 .card-container-stream{
   
-  border: 1px solid red;
+  /* border: 1px solid red; */
   align-items: center;
   justify-content: space-between;
   position: absolute;
@@ -206,7 +206,7 @@ font-size: 3.1624rem;
 }
 .card-container-kids {
   display: flex;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   position: relative;
   flex-direction: row-reverse;
   align-items: center;
@@ -222,7 +222,7 @@ font-size: 3.1624rem;
 }
 
 #card-kids-h2 {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   position: absolute;
   top: 30px;
   max-width: 300px;
@@ -230,7 +230,7 @@ font-size: 3.1624rem;
   font: 3.9rem;
 }
 #card-kids-h3 {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   line-height: 1.1;
   font: 3.5rem;
 }
@@ -246,22 +246,22 @@ font-size: 3.1624rem;
 
 .card-container-download-header {
   /* color: white; */
-  border: 1px solid red;
+  /* border: 1px solid red; */
   max-width: 350px;
 }
 .card-container-download-header h2 {
   align-items: center;
   font-size: 2rem;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   padding: 0px 10px 0px 0px;
 }
 .card-container-download-header h3 {
   align-items: center;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   padding: 0px 5px;
 }
 .button-container-header {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   justify-content: center;
   justify-content: space-evenly;
   display: flex;
@@ -296,7 +296,7 @@ font-size: 3.1624rem;
 }
 .footer-header {
   display: grid;
-  border: 1px solid solid;
+  /* border: 1px solid red; */
   grid-template-columns: 1fr 1fr 1fr 1fr;
   justify-content: space-between;
 }
