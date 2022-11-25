@@ -103,6 +103,8 @@ main{
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  
+  border-bottom: 7px solid rgb(45, 44, 44);
 }
     
     
@@ -154,6 +156,8 @@ main{
 
 .card-container-1{
   /* border: 1px solid red; */
+  border-top: 7px solid rgb(45, 44, 44);
+  border-bottom: 7px solid rgb(45, 44, 44);
     display: flex;
     position: relative;
     align-items: center;
@@ -219,6 +223,8 @@ font-size: 3.1624rem;
 }
 .card-container-kids {
   display: flex;
+  border-top: 7px solid rgb(45, 44, 44);
+  border-bottom: 7px solid rgb(45, 44, 44);
   /* border: 1px solid red; */
   position: relative;
   flex-direction: row-reverse;
@@ -260,25 +266,33 @@ font-size: 3.1624rem;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    border-top: 7px solid rgb(45, 44, 44);
+    border-bottom: 7px solid rgb(45, 44, 44);
+    position: relative;
+    
   }
   .card-image-download img {
-    width: 400px;
+    width: 550px;
+   margin-right: 20rem; 
   }
 
 .card-container-download-header {
   /* color: white; */
   /* border: 1px solid red; */
-  max-width: 350px;
+  max-width: 510px;
+  margin-right: 2rem;
 }
 .card-container-download-header h2 {
   align-items: center;
-  font-size: 2rem;
+  font-size: 3.125rem;
   /* border: 1px solid red; */
-  padding: 0px 10px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  margin-bottom: 10px;
 }
 .card-container-download-header h3 {
   align-items: center;
   /* border: 1px solid red; */
+  font-size: 1.625rem;
   padding: 0px 5px;
 }
 .button-container-header {
