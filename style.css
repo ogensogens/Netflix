@@ -6,7 +6,7 @@
   
  
   
-  /* background: rgba(0,0,0,.4); */
+  
 }
 
 main{
@@ -78,6 +78,13 @@ main{
     justify-content: space-between;
     padding: 20px 20px
     
+}
+.login button {
+  background: red;
+  border: none;
+  border-radius: 4px;
+  font-size: 1.2rem;
+  padding: 5px 5px 5px;
 }
 #email-id{
     width: 400px;
@@ -381,9 +388,7 @@ footer{
  padding-top: 20px;
  margin-top: 20px;
 }
-.symbol{
-  off
-}
+
 a:link {
     text-decoration: none;
   }
