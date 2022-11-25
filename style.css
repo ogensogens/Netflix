@@ -308,6 +308,7 @@ font-size: 3.1624rem;
 }
 .button-container-header h2 {
   font-size: 3.123rem;
+  margin-bottom: 1.1rem;
 }
 
 .button-container li {
@@ -315,16 +316,20 @@ font-size: 3.1624rem;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  gap: 4px;
+  gap: 7px;
   width: 200px;
   
 }
 .button-container li button{
   font-weight: 400;
+  font-size: 1.3rem;
   width: 600px;
   height: 50px;
   background:rgb(45, 44, 44);
   border-color: rgb(45, 44, 44);
+  text-align: left;
+  padding: auto;
+  padding-left: 20px;
 }
 .form-header {
   justify-content: center;
