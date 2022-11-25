@@ -306,12 +306,25 @@ font-size: 3.1624rem;
   flex-direction: column;
   align-items: center;
 }
+.button-container-header h2 {
+  font-size: 3.123rem;
+}
+
 .button-container li {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
   gap: 4px;
+  width: 200px;
+  
+}
+.button-container li button{
+  font-weight: 400;
+  width: 600px;
+  height: 50px;
+  background:rgb(45, 44, 44);
+  border-color: rgb(45, 44, 44);
 }
 .form-header {
   justify-content: center;
