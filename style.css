@@ -104,7 +104,7 @@ main{
   justify-content: space-evenly;
   align-items: center;
   
-  border-bottom: 7px solid rgb(45, 44, 44);
+  border-bottom: 5px solid rgb(45, 44, 44);
 }
     
     
@@ -156,8 +156,8 @@ main{
 
 .card-container-1{
   /* border: 1px solid red; */
-  border-top: 7px solid rgb(45, 44, 44);
-  border-bottom: 7px solid rgb(45, 44, 44);
+  border-top: 5px solid rgb(45, 44, 44);
+  border-bottom: 5px solid rgb(45, 44, 44);
     display: flex;
     position: relative;
     align-items: center;
@@ -223,8 +223,8 @@ font-size: 3.1624rem;
 }
 .card-container-kids {
   display: flex;
-  border-top: 7px solid rgb(45, 44, 44);
-  border-bottom: 7px solid rgb(45, 44, 44);
+  border-top: 5px solid rgb(45, 44, 44);
+  border-bottom: 5px solid rgb(45, 44, 44);
   /* border: 1px solid red; */
   position: relative;
   flex-direction: row-reverse;
@@ -266,9 +266,10 @@ font-size: 3.1624rem;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    border-top: 7px solid rgb(45, 44, 44);
-    border-bottom: 7px solid rgb(45, 44, 44);
+    border-top: 5px solid rgb(45, 44, 44);
+    border-bottom: 10px solid rgb(45, 44, 44);
     position: relative;
+    margin:auto
     
   }
   .card-image-download img {
@@ -297,6 +298,8 @@ font-size: 3.1624rem;
 }
 .button-container-header {
   /* border: 1px solid red; */
+  
+  border-bottom: 10px solid rgb(45, 44, 44);
   justify-content: center;
   justify-content: space-evenly;
   display: flex;
