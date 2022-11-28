@@ -311,8 +311,9 @@ main {
   justify-content: center;
   align-items: center;
   justify-content: space-evenly;
+  
 
-  margin-bottom: 20px;
+  margin-bottom: 90px;
 }
 .form-header #email-id {
   justify-content: center;
